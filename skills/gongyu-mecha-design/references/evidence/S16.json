@@ -1,0 +1,33 @@
+{
+  "id": "S16",
+  "sha256": "f4ac1a54b5c55c4a3dc303aea6c05e7fd8c23be4cdb3a7f0fa38510ee817406b",
+  "path": "D:\\AI3D建模\\公羽机甲\\机械臂1.stl",
+  "aliases": [
+    "D:\\AI3D建模\\公羽机甲\\机械臂1.stl"
+  ],
+  "suffix": ".stl",
+  "mesh": {
+    "vertices": 1336,
+    "triangles": 2668,
+    "bounds": [
+      [
+        14.841594696044922,
+        -312.0302429199219,
+        14.572832107543945
+      ],
+      [
+        19.840576171875,
+        -285.0302429199219,
+        24.572832107543945
+      ]
+    ],
+    "size": [
+      4.998981475830078,
+      27.0,
+      10.0
+    ],
+    "signed_volume": 701.5936657678534,
+    "nonmanifold_edges": 0
+  },
+  "units": "STL has no units; not inferred"
+}

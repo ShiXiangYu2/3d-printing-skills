@@ -1,0 +1,1562 @@
+{
+  "total_files": 27,
+  "unique_contents": 18,
+  "sources": [
+    {
+      "id": "S01",
+      "sha256": "28c394ecc722bbb56bef422b233e6a2e76aed5e286109352e881aae51868988c",
+      "path": "D:\\AI3D建模\\公羽机甲\\156、A1mini一体多色 (1).3mf",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\156、A1mini一体多色 (1).3mf",
+        "D:\\AI3D建模\\公羽机甲\\156、A1mini一体多色.3mf"
+      ],
+      "suffix": ".3mf",
+      "archive_integrity": true,
+      "entries": [
+        "[Content_Types].xml",
+        "Auxiliaries/Profile Pictures/1.webp",
+        "Auxiliaries/Profile Pictures/7.webp",
+        "Auxiliaries/Profile Pictures/8.webp",
+        "Auxiliaries/Profile Pictures/6.webp",
+        "Auxiliaries/Profile Pictures/9.webp",
+        "Auxiliaries/Profile Pictures/10.webp",
+        "Auxiliaries/Profile Pictures/wechat_2025-09-28_124241_889.webp",
+        "Auxiliaries/.thumbnails/thumbnail_small.png",
+        "Auxiliaries/.thumbnails/thumbnail_middle.png",
+        "Auxiliaries/.thumbnails/thumbnail_3mf.png",
+        "Auxiliaries/Model Pictures/5.webp",
+        "Auxiliaries/Model Pictures/4.webp",
+        "Auxiliaries/Model Pictures/7.webp",
+        "Auxiliaries/Model Pictures/8.webp",
+        "Auxiliaries/Model Pictures/6.webp",
+        "Auxiliaries/Model Pictures/11.webp",
+        "Auxiliaries/Model Pictures/9.webp",
+        "Auxiliaries/Model Pictures/10.webp",
+        "Auxiliaries/Model Pictures/2.webp",
+        "Auxiliaries/Model Pictures/3.webp",
+        "3D/3dmodel.model",
+        "3D/_rels/3dmodel.model.rels",
+        "3D/Objects/object_360.model",
+        "3D/Objects/object_363.model",
+        "3D/Objects/object_366.model",
+        "_rels/.rels",
+        "Metadata/project_settings.config",
+        "Metadata/slice_info.config",
+        "Metadata/pick_1.png",
+        "Metadata/plate_no_light_1.png",
+        "Metadata/top_1.png",
+        "Metadata/cut_information.xml",
+        "Metadata/model_settings.config",
+        "Metadata/plate_1.png"
+      ],
+      "visual_evidence": {
+        "path": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\evidence\\S01-author-photo.webp",
+        "zip_entry": "Auxiliaries/Model Pictures/10.webp",
+        "kind": "embedded-author-photo"
+      }
+    },
+    {
+      "id": "S02",
+      "sha256": "435ebd946506bc0ffed585b6a087752cf48f7b28f80948779430d901d9c1bceb",
+      "path": "D:\\AI3D建模\\公羽机甲\\207、一体多色.3mf",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\207、一体多色.3mf"
+      ],
+      "suffix": ".3mf",
+      "archive_integrity": true,
+      "entries": [
+        "[Content_Types].xml",
+        "Metadata/pick_1.png",
+        "Metadata/top_1.png",
+        "Metadata/filament_sequence.json",
+        "Metadata/project_settings.config",
+        "Metadata/model_settings.config",
+        "Metadata/plate_1.png",
+        "Metadata/slice_info.config",
+        "Metadata/plate_no_light_1.png",
+        "Metadata/cut_information.xml",
+        "Auxiliaries/.thumbnails/thumbnail_middle.png",
+        "Auxiliaries/.thumbnails/thumbnail_small.png",
+        "Auxiliaries/.thumbnails/thumbnail_3mf.png",
+        "Auxiliaries/Model Pictures/9.webp",
+        "Auxiliaries/Model Pictures/10.webp",
+        "Auxiliaries/Model Pictures/8.webp",
+        "Auxiliaries/Model Pictures/7.webp",
+        "Auxiliaries/Model Pictures/2.webp",
+        "Auxiliaries/Model Pictures/11.webp",
+        "Auxiliaries/Model Pictures/1.webp",
+        "Auxiliaries/Model Pictures/12.webp",
+        "Auxiliaries/Profile Pictures/9.webp",
+        "Auxiliaries/Profile Pictures/10.webp",
+        "Auxiliaries/Profile Pictures/ScreenShot_2026-08-25_193400_299.webp",
+        "Auxiliaries/Profile Pictures/16.webp",
+        "Auxiliaries/Profile Pictures/11.webp",
+        "Auxiliaries/Profile Pictures/12.webp",
+        "Auxiliaries/Profile Pictures/14.webp",
+        "_rels/.rels",
+        "3D/3dmodel.model",
+        "3D/Objects/object_58.model",
+        "3D/Objects/object_57.model",
+        "3D/Objects/object_55.model",
+        "3D/_rels/3dmodel.model.rels"
+      ],
+      "visual_evidence": {
+        "path": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\evidence\\S02-author-photo.webp",
+        "zip_entry": "Auxiliaries/Model Pictures/1.webp",
+        "kind": "embedded-author-photo"
+      }
+    },
+    {
+      "id": "S03",
+      "sha256": "d75058cb33f6eb1d2c5321c96225d22845ca33d7c7e4ee63222369c7687398c3",
+      "path": "D:\\AI3D建模\\公羽机甲\\3、抛石机——A1mini一体多色 (1).3mf",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\3、抛石机——A1mini一体多色 (1).3mf",
+        "D:\\AI3D建模\\公羽机甲\\3、抛石机——A1mini一体多色 (2).3mf",
+        "D:\\AI3D建模\\公羽机甲\\3、抛石机——A1mini一体多色.3mf"
+      ],
+      "suffix": ".3mf",
+      "archive_integrity": true,
+      "entries": [
+        "[Content_Types].xml",
+        "Metadata/plate_no_light_1.png",
+        "Metadata/cut_information.xml",
+        "Metadata/plate_1.png",
+        "Metadata/pick_1.png",
+        "Metadata/top_1.png",
+        "Metadata/slice_info.config",
+        "Metadata/model_settings.config",
+        "Metadata/project_settings.config",
+        "Metadata/_rels/model_settings.config.rels",
+        "_rels/.rels",
+        "3D/3dmodel.model",
+        "3D/Objects/object_111.model",
+        "3D/Objects/object_112.model",
+        "3D/Objects/object_113.model",
+        "3D/_rels/3dmodel.model.rels",
+        "Auxiliaries/Model Pictures/15.webp",
+        "Auxiliaries/Model Pictures/14.webp",
+        "Auxiliaries/Model Pictures/5.webp",
+        "Auxiliaries/Model Pictures/2.webp",
+        "Auxiliaries/Model Pictures/8.webp",
+        "Auxiliaries/Model Pictures/9.webp",
+        "Auxiliaries/Model Pictures/16.webp",
+        "Auxiliaries/Model Pictures/6.webp",
+        "Auxiliaries/Model Pictures/7.webp",
+        "Auxiliaries/Model Pictures/3.webp",
+        "Auxiliaries/Model Pictures/1.webp",
+        "Auxiliaries/Model Pictures/4.webp",
+        "Auxiliaries/.thumbnails/thumbnail_small.png",
+        "Auxiliaries/.thumbnails/thumbnail_middle.png",
+        "Auxiliaries/.thumbnails/thumbnail_3mf.png",
+        "Auxiliaries/Profile Pictures/5.webp",
+        "Auxiliaries/Profile Pictures/12.webp",
+        "Auxiliaries/Profile Pictures/8.webp",
+        "Auxiliaries/Profile Pictures/微信截图_20250319183624.webp",
+        "Auxiliaries/Profile Pictures/7.webp",
+        "Auxiliaries/Profile Pictures/3.webp"
+      ],
+      "visual_evidence": {
+        "path": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\evidence\\S03-author-photo.webp",
+        "zip_entry": "Auxiliaries/Model Pictures/1.webp",
+        "kind": "embedded-author-photo"
+      }
+    },
+    {
+      "id": "S04",
+      "sha256": "78a370112d47aebc87d5597849df33f0b101a5826f24df3af4e717113c80ba4f",
+      "path": "D:\\AI3D建模\\公羽机甲\\41-2、狡一体多色.3mf",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\41-2、狡一体多色.3mf"
+      ],
+      "suffix": ".3mf",
+      "archive_integrity": true,
+      "entries": [
+        "[Content_Types].xml",
+        "Auxiliaries/Model Pictures/17.webp",
+        "Auxiliaries/Model Pictures/20.webp",
+        "Auxiliaries/Model Pictures/6.webp",
+        "Auxiliaries/Model Pictures/10.webp",
+        "Auxiliaries/Model Pictures/13.webp",
+        "Auxiliaries/Model Pictures/4.webp",
+        "Auxiliaries/Model Pictures/19.webp",
+        "Auxiliaries/Model Pictures/9.webp",
+        "Auxiliaries/Model Pictures/14.webp",
+        "Auxiliaries/Model Pictures/18.webp",
+        "Auxiliaries/Model Pictures/11.webp",
+        "Auxiliaries/Model Pictures/3.webp",
+        "Auxiliaries/Model Pictures/16.webp",
+        "Auxiliaries/Model Pictures/12.webp",
+        "Auxiliaries/Model Pictures/7.webp",
+        "Auxiliaries/Model Pictures/5.webp",
+        "Auxiliaries/.thumbnails/thumbnail_3mf.png",
+        "Auxiliaries/.thumbnails/thumbnail_small.png",
+        "Auxiliaries/.thumbnails/thumbnail_middle.png",
+        "Auxiliaries/Profile Pictures/微信截图_20241230230526.webp",
+        "Auxiliaries/Profile Pictures/8.webp",
+        "Auxiliaries/Profile Pictures/22.webp",
+        "Auxiliaries/Profile Pictures/3.webp",
+        "Auxiliaries/Profile Pictures/1.webp",
+        "_rels/.rels",
+        "3D/3dmodel.model",
+        "3D/Objects/object_39.model",
+        "3D/Objects/object_24.model",
+        "3D/Objects/object_38.model",
+        "3D/_rels/3dmodel.model.rels",
+        "Metadata/model_settings.config",
+        "Metadata/plate_1.png",
+        "Metadata/plate_no_light_1.png",
+        "Metadata/project_settings.config",
+        "Metadata/top_1.png",
+        "Metadata/pick_1.png",
+        "Metadata/slice_info.config",
+        "Metadata/cut_information.xml",
+        "Metadata/_rels/model_settings.config.rels"
+      ],
+      "visual_evidence": {
+        "path": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\evidence\\S04-author-photo.webp",
+        "zip_entry": "Auxiliaries/Model Pictures/10.webp",
+        "kind": "embedded-author-photo"
+      }
+    },
+    {
+      "id": "S05",
+      "sha256": "d0d2eccf833564557113553ab1f975351d63eebdd18845e229f63a4f12ce2f67",
+      "path": "D:\\AI3D建模\\公羽机甲\\43、a1MINI一体多色.3mf",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\43、a1MINI一体多色.3mf"
+      ],
+      "suffix": ".3mf",
+      "archive_integrity": true,
+      "entries": [
+        "[Content_Types].xml",
+        "Auxiliaries/Model Pictures/15.webp",
+        "Auxiliaries/Model Pictures/21.webp",
+        "Auxiliaries/Model Pictures/20.webp",
+        "Auxiliaries/Model Pictures/6.webp",
+        "Auxiliaries/Model Pictures/13.webp",
+        "Auxiliaries/Model Pictures/19.webp",
+        "Auxiliaries/Model Pictures/9.webp",
+        "Auxiliaries/Model Pictures/14.webp",
+        "Auxiliaries/Model Pictures/8.webp",
+        "Auxiliaries/Model Pictures/22.webp",
+        "Auxiliaries/Model Pictures/11.webp",
+        "Auxiliaries/Model Pictures/2.webp",
+        "Auxiliaries/Model Pictures/16.webp",
+        "Auxiliaries/Model Pictures/12.webp",
+        "Auxiliaries/Model Pictures/7.webp",
+        "Auxiliaries/Model Pictures/5.webp",
+        "Auxiliaries/.thumbnails/thumbnail_3mf.png",
+        "Auxiliaries/.thumbnails/thumbnail_small.png",
+        "Auxiliaries/.thumbnails/thumbnail_middle.png",
+        "Auxiliaries/Profile Pictures/微信截图_20250101001049.webp",
+        "Auxiliaries/Profile Pictures/2.webp",
+        "Auxiliaries/Profile Pictures/3.webp",
+        "_rels/.rels",
+        "3D/3dmodel.model",
+        "3D/Objects/object_48.model",
+        "3D/Objects/object_54.model",
+        "3D/Objects/object_53.model",
+        "3D/_rels/3dmodel.model.rels",
+        "Metadata/model_settings.config",
+        "Metadata/plate_1.png",
+        "Metadata/plate_no_light_1.png",
+        "Metadata/project_settings.config",
+        "Metadata/top_1.png",
+        "Metadata/pick_1.png",
+        "Metadata/slice_info.config",
+        "Metadata/cut_information.xml",
+        "Metadata/_rels/model_settings.config.rels"
+      ],
+      "visual_evidence": {
+        "path": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\evidence\\S05-author-photo.webp",
+        "zip_entry": "Auxiliaries/Model Pictures/11.webp",
+        "kind": "embedded-author-photo"
+      }
+    },
+    {
+      "id": "S06",
+      "sha256": "386738ae425dc21a74c309ad3c86b8a1291367cb894ec53a52aa36153f32f527",
+      "path": "D:\\AI3D建模\\公羽机甲\\43、一体多色 (1).3mf",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\43、一体多色 (1).3mf",
+        "D:\\AI3D建模\\公羽机甲\\43、一体多色 (2).3mf",
+        "D:\\AI3D建模\\公羽机甲\\43、一体多色.3mf"
+      ],
+      "suffix": ".3mf",
+      "archive_integrity": true,
+      "entries": [
+        "[Content_Types].xml",
+        "3D/3dmodel.model",
+        "3D/_rels/3dmodel.model.rels",
+        "3D/Objects/object_54.model",
+        "3D/Objects/object_48.model",
+        "3D/Objects/object_53.model",
+        "Metadata/model_settings.config",
+        "Metadata/pick_1.png",
+        "Metadata/cut_information.xml",
+        "Metadata/plate_no_light_1.png",
+        "Metadata/top_1.png",
+        "Metadata/plate_1.png",
+        "Metadata/project_settings.config",
+        "Metadata/slice_info.config",
+        "Metadata/_rels/model_settings.config.rels",
+        "_rels/.rels",
+        "Auxiliaries/Profile Pictures/16.webp",
+        "Auxiliaries/Profile Pictures/17.webp",
+        "Auxiliaries/Profile Pictures/微信截图_20250101000151.webp",
+        "Auxiliaries/Profile Pictures/1.webp",
+        "Auxiliaries/Profile Pictures/10.webp",
+        "Auxiliaries/Model Pictures/20.webp",
+        "Auxiliaries/Model Pictures/12.webp",
+        "Auxiliaries/Model Pictures/16.webp",
+        "Auxiliaries/Model Pictures/5.webp",
+        "Auxiliaries/Model Pictures/7.webp",
+        "Auxiliaries/Model Pictures/6.webp",
+        "Auxiliaries/Model Pictures/8.webp",
+        "Auxiliaries/Model Pictures/2.webp",
+        "Auxiliaries/Model Pictures/11.webp",
+        "Auxiliaries/Model Pictures/21.webp",
+        "Auxiliaries/Model Pictures/22.webp",
+        "Auxiliaries/Model Pictures/13.webp",
+        "Auxiliaries/Model Pictures/14.webp",
+        "Auxiliaries/Model Pictures/15.webp",
+        "Auxiliaries/Model Pictures/19.webp",
+        "Auxiliaries/Model Pictures/9.webp",
+        "Auxiliaries/.thumbnails/thumbnail_middle.png",
+        "Auxiliaries/.thumbnails/thumbnail_3mf.png",
+        "Auxiliaries/.thumbnails/thumbnail_small.png"
+      ],
+      "visual_evidence": {
+        "path": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\evidence\\S06-author-photo.webp",
+        "zip_entry": "Auxiliaries/Model Pictures/11.webp",
+        "kind": "embedded-author-photo"
+      }
+    },
+    {
+      "id": "S07",
+      "sha256": "dcb5e8a260d958590142bd2e29b2523a5585e13956c4257282cf01e328f83e0c",
+      "path": "D:\\AI3D建模\\公羽机甲\\46、从从A1mini一体多色.3mf",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\46、从从A1mini一体多色.3mf"
+      ],
+      "suffix": ".3mf",
+      "archive_integrity": true,
+      "entries": [
+        "[Content_Types].xml",
+        "Auxiliaries/Profile Pictures/微信截图_20250106125726.webp",
+        "Auxiliaries/Profile Pictures/3.webp",
+        "Auxiliaries/Model Pictures/8.webp",
+        "Auxiliaries/Model Pictures/13.webp",
+        "Auxiliaries/Model Pictures/19.webp",
+        "Auxiliaries/Model Pictures/6.webp",
+        "Auxiliaries/Model Pictures/11.webp",
+        "Auxiliaries/Model Pictures/16.webp",
+        "Auxiliaries/Model Pictures/14.webp",
+        "Auxiliaries/Model Pictures/20.webp",
+        "Auxiliaries/Model Pictures/12.webp",
+        "Auxiliaries/Model Pictures/7.webp",
+        "Auxiliaries/Model Pictures/4.webp",
+        "Auxiliaries/Model Pictures/15.webp",
+        "Auxiliaries/Model Pictures/5.webp",
+        "Auxiliaries/Model Pictures/9.webp",
+        "Auxiliaries/.thumbnails/thumbnail_small.png",
+        "Auxiliaries/.thumbnails/thumbnail_3mf.png",
+        "Auxiliaries/.thumbnails/thumbnail_middle.png",
+        "_rels/.rels",
+        "3D/3dmodel.model",
+        "3D/_rels/3dmodel.model.rels",
+        "3D/Objects/object_51.model",
+        "3D/Objects/object_52.model",
+        "Metadata/project_settings.config",
+        "Metadata/top_1.png",
+        "Metadata/slice_info.config",
+        "Metadata/plate_no_light_1.png",
+        "Metadata/pick_1.png",
+        "Metadata/plate_1.png",
+        "Metadata/model_settings.config",
+        "Metadata/cut_information.xml",
+        "Metadata/_rels/model_settings.config.rels"
+      ],
+      "visual_evidence": {
+        "path": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\evidence\\S07-author-photo.webp",
+        "zip_entry": "Auxiliaries/Model Pictures/11.webp",
+        "kind": "embedded-author-photo"
+      }
+    },
+    {
+      "id": "S08",
+      "sha256": "87fd4cb4863ce92ab3746d9f9a4c0d1d808a7f9286c66da61c7805c9bf2ddc6d",
+      "path": "D:\\AI3D建模\\公羽机甲\\46、从从一体多色 (1).3mf",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\46、从从一体多色 (1).3mf",
+        "D:\\AI3D建模\\公羽机甲\\46、从从一体多色.3mf"
+      ],
+      "suffix": ".3mf",
+      "archive_integrity": true,
+      "entries": [
+        "[Content_Types].xml",
+        "3D/3dmodel.model",
+        "3D/_rels/3dmodel.model.rels",
+        "3D/Objects/object_51.model",
+        "3D/Objects/object_52.model",
+        "Metadata/model_settings.config",
+        "Metadata/pick_1.png",
+        "Metadata/cut_information.xml",
+        "Metadata/plate_no_light_1.png",
+        "Metadata/top_1.png",
+        "Metadata/plate_1.png",
+        "Metadata/project_settings.config",
+        "Metadata/slice_info.config",
+        "Metadata/_rels/model_settings.config.rels",
+        "_rels/.rels",
+        "Auxiliaries/Profile Pictures/6.webp",
+        "Auxiliaries/Profile Pictures/2.webp",
+        "Auxiliaries/Profile Pictures/微信截图_20250106125203.webp",
+        "Auxiliaries/Profile Pictures/1.webp",
+        "Auxiliaries/Profile Pictures/10.webp",
+        "Auxiliaries/Model Pictures/20.webp",
+        "Auxiliaries/Model Pictures/12.webp",
+        "Auxiliaries/Model Pictures/16.webp",
+        "Auxiliaries/Model Pictures/5.webp",
+        "Auxiliaries/Model Pictures/7.webp",
+        "Auxiliaries/Model Pictures/6.webp",
+        "Auxiliaries/Model Pictures/8.webp",
+        "Auxiliaries/Model Pictures/11.webp",
+        "Auxiliaries/Model Pictures/13.webp",
+        "Auxiliaries/Model Pictures/14.webp",
+        "Auxiliaries/Model Pictures/4.webp",
+        "Auxiliaries/Model Pictures/15.webp",
+        "Auxiliaries/Model Pictures/19.webp",
+        "Auxiliaries/Model Pictures/9.webp",
+        "Auxiliaries/.thumbnails/thumbnail_middle.png",
+        "Auxiliaries/.thumbnails/thumbnail_3mf.png",
+        "Auxiliaries/.thumbnails/thumbnail_small.png"
+      ],
+      "visual_evidence": {
+        "path": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\evidence\\S08-author-photo.webp",
+        "zip_entry": "Auxiliaries/Model Pictures/11.webp",
+        "kind": "embedded-author-photo"
+      }
+    },
+    {
+      "id": "S09",
+      "sha256": "cf4021c0e8f32fd45e0a631b02fb87c6f0da5a3a16e736e79da4f4c056a1329d",
+      "path": "D:\\AI3D建模\\公羽机甲\\86、A1mini一体多色.3mf",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\86、A1mini一体多色.3mf"
+      ],
+      "suffix": ".3mf",
+      "archive_integrity": true,
+      "entries": [
+        "[Content_Types].xml",
+        "Metadata/top_1.png",
+        "Metadata/pick_1.png",
+        "Metadata/plate_no_light_1.png",
+        "Metadata/cut_information.xml",
+        "Metadata/model_settings.config",
+        "Metadata/project_settings.config",
+        "Metadata/slice_info.config",
+        "Metadata/plate_1.png",
+        "Metadata/_rels/model_settings.config.rels",
+        "_rels/.rels",
+        "3D/3dmodel.model",
+        "3D/_rels/3dmodel.model.rels",
+        "3D/Objects/object_171.model",
+        "3D/Objects/object_172.model",
+        "3D/Objects/object_169.model",
+        "Auxiliaries/.thumbnails/thumbnail_middle.png",
+        "Auxiliaries/.thumbnails/thumbnail_3mf.png",
+        "Auxiliaries/.thumbnails/thumbnail_small.png",
+        "Auxiliaries/Profile Pictures/8.webp",
+        "Auxiliaries/Profile Pictures/4.webp",
+        "Auxiliaries/Profile Pictures/2.webp",
+        "Auxiliaries/Profile Pictures/3.webp",
+        "Auxiliaries/Profile Pictures/微信截图_20250321180713.webp",
+        "Auxiliaries/Model Pictures/11.webp",
+        "Auxiliaries/Model Pictures/5.webp",
+        "Auxiliaries/Model Pictures/8.webp",
+        "Auxiliaries/Model Pictures/4.webp",
+        "Auxiliaries/Model Pictures/3.webp",
+        "Auxiliaries/Model Pictures/6.webp",
+        "Auxiliaries/Model Pictures/9.webp",
+        "Auxiliaries/Model Pictures/7.webp",
+        "Auxiliaries/Model Pictures/13.webp"
+      ],
+      "visual_evidence": {
+        "path": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\evidence\\S09-author-photo.webp",
+        "zip_entry": "Auxiliaries/Model Pictures/11.webp",
+        "kind": "embedded-author-photo"
+      }
+    },
+    {
+      "id": "S10",
+      "sha256": "d34622ed9ffdd5864aca4b18098cd8a7fb881f3840d63d3011783486734cfecf",
+      "path": "D:\\AI3D建模\\公羽机甲\\A1mini夫诸单色.3mf",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\A1mini夫诸单色.3mf"
+      ],
+      "suffix": ".3mf",
+      "archive_integrity": true,
+      "entries": [
+        "[Content_Types].xml",
+        "Auxiliaries/Model Pictures/13.webp",
+        "Auxiliaries/Model Pictures/15.webp",
+        "Auxiliaries/Model Pictures/12.webp",
+        "Auxiliaries/Model Pictures/14.webp",
+        "Auxiliaries/Model Pictures/4.webp",
+        "Auxiliaries/Model Pictures/7.webp",
+        "Auxiliaries/Model Pictures/19.webp",
+        "Auxiliaries/Model Pictures/2.webp",
+        "Auxiliaries/Model Pictures/18.webp",
+        "Auxiliaries/Model Pictures/3.webp",
+        "Auxiliaries/Model Pictures/6.webp",
+        "Auxiliaries/Model Pictures/20.webp",
+        "Auxiliaries/Model Pictures/1.webp",
+        "Auxiliaries/.thumbnails/thumbnail_3mf.png",
+        "Auxiliaries/.thumbnails/thumbnail_small.png",
+        "Auxiliaries/.thumbnails/thumbnail_middle.png",
+        "Auxiliaries/Profile Pictures/微信截图_20241129192922.webp",
+        "Auxiliaries/Profile Pictures/8.webp",
+        "Metadata/cut_information.xml",
+        "Metadata/top_1.png",
+        "Metadata/pick_1.png",
+        "Metadata/slice_info.config",
+        "Metadata/model_settings.config",
+        "Metadata/plate_no_light_1.png",
+        "Metadata/plate_1.png",
+        "Metadata/project_settings.config",
+        "Metadata/_rels/model_settings.config.rels",
+        "_rels/.rels",
+        "3D/3dmodel.model",
+        "3D/Objects/object_37.model",
+        "3D/Objects/object_45.model",
+        "3D/Objects/object_44.model",
+        "3D/Objects/object_32.model",
+        "3D/Objects/object_31.model",
+        "3D/Objects/object_41.model",
+        "3D/Objects/object_29.model",
+        "3D/Objects/object_40.model",
+        "3D/Objects/object_28.model",
+        "3D/Objects/object_35.model",
+        "3D/Objects/object_42.model",
+        "3D/Objects/object_27.model",
+        "3D/Objects/object_33.model",
+        "3D/Objects/object_30.model",
+        "3D/Objects/object_34.model",
+        "3D/Objects/object_47.model",
+        "3D/Objects/object_48.model",
+        "3D/Objects/object_43.model",
+        "3D/Objects/object_38.model",
+        "3D/Objects/object_39.model",
+        "3D/Objects/object_36.model",
+        "3D/Objects/object_46.model",
+        "3D/_rels/3dmodel.model.rels"
+      ],
+      "visual_evidence": {
+        "path": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\evidence\\S10-author-photo.webp",
+        "zip_entry": "Auxiliaries/Model Pictures/1.webp",
+        "kind": "embedded-author-photo"
+      }
+    },
+    {
+      "id": "S11",
+      "sha256": "c9d695ce277c50b1cc35a820c7ef9a2e2b62a0fe154ea31a1c5e4df1600a562c",
+      "path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百三十二——“䑏疏”五型重型钻山工程车 (1).zip",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百三十二——“䑏疏”五型重型钻山工程车 (1).zip",
+        "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百三十二——“䑏疏”五型重型钻山工程车 (2).zip",
+        "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百三十二——“䑏疏”五型重型钻山工程车.zip"
+      ],
+      "suffix": ".zip",
+      "archive_integrity": true,
+      "entries": [
+        "机械臂2.stl",
+        "机械臂1.stl",
+        "轮胎.stl",
+        "链接.stl",
+        "底.stl",
+        "中.stl",
+        "上盖.stl",
+        "钻头.stl"
+      ],
+      "entry_hashes": {
+        "机械臂2.stl": "16a24a4b6bb6e75a27501b458a04518a8d3274e1ec34d4ae3035774ea3365274",
+        "机械臂1.stl": "6fe2c4a64bf3de7b7d8e59c9efab111927a637c9c44d857bd61e8c9bdbe13881",
+        "轮胎.stl": "b12b7fdea8a4fa69e55092a93e7308c5ce245561b0862921074dd83e7c87041a",
+        "链接.stl": "e821347baee9e09b868288b8c93b416559692a9a6bdb88e286f357646c3523be",
+        "底.stl": "47b88c03a3945145878450e1edb0d7cd4f46204addb136fe5d7a695d5c67af78",
+        "中.stl": "35f5f42858b9cbedc629eece1131ab91c99a09469297477d1f0283c9402a3782",
+        "上盖.stl": "33a2ff7c58f0eb1fc04daba52c38a8e8df19eb12899bc4675b4e831d5746726e",
+        "钻头.stl": "60c583895d76b006c8c8b94db23ed7973af9856976737395214f9ebaee6ae32a"
+      },
+      "stl_meshes": {
+        "机械臂2.stl": {
+          "vertices": 887,
+          "triangles": 1740,
+          "bounds": [
+            [
+              54.71548080444336,
+              -417.34197998046875,
+              17.149076461791992
+            ],
+            [
+              67.67548370361328,
+              -383.94195556640625,
+              24.109086990356445
+            ]
+          ],
+          "size": [
+            12.960002899169922,
+            33.4000244140625,
+            6.960010528564453
+          ],
+          "signed_volume": 1489.132558907716,
+          "nonmanifold_edges": 8
+        },
+        "机械臂1.stl": {
+          "vertices": 444,
+          "triangles": 884,
+          "bounds": [
+            [
+              -41.60612487792969,
+              -367.23785400390625,
+              10.597694396972656
+            ],
+            [
+              -35.60612487792969,
+              -340.83544921875,
+              18.837697982788086
+            ]
+          ],
+          "size": [
+            6.0,
+            26.40240478515625,
+            8.24000358581543
+          ],
+          "signed_volume": 1000.8127860935047,
+          "nonmanifold_edges": 0
+        },
+        "轮胎.stl": {
+          "vertices": 2399,
+          "triangles": 4796,
+          "bounds": [
+            [
+              -31.23843002319336,
+              -365.56439208984375,
+              -5.835116386413574
+            ],
+            [
+              -21.73843002319336,
+              -350.56439208984375,
+              9.164883613586426
+            ]
+          ],
+          "size": [
+            9.5,
+            15.0,
+            15.0
+          ],
+          "signed_volume": 107.21243423529602,
+          "nonmanifold_edges": 2
+        },
+        "链接.stl": {
+          "vertices": 256,
+          "triangles": 504,
+          "bounds": [
+            [
+              -45.026824951171875,
+              -363.06439208984375,
+              6.780235290527344
+            ],
+            [
+              -35.026824951171875,
+              -353.06439208984375,
+              16.780237197875977
+            ]
+          ],
+          "size": [
+            10.0,
+            10.0,
+            10.000001907348633
+          ],
+          "signed_volume": 403.9839178568891,
+          "nonmanifold_edges": 0
+        },
+        "底.stl": {
+          "vertices": 3542,
+          "triangles": 7032,
+          "bounds": [
+            [
+              -54.026824951171875,
+              -378.5644226074219,
+              -2.8351197242736816
+            ],
+            [
+              -26.026826858520508,
+              -337.5643615722656,
+              4.164881229400635
+            ]
+          ],
+          "size": [
+            27.999998092651367,
+            41.00006103515625,
+            7.000000953674316
+          ],
+          "signed_volume": 3892.654030293305,
+          "nonmanifold_edges": 0
+        },
+        "中.stl": {
+          "vertices": 505,
+          "triangles": 990,
+          "bounds": [
+            [
+              -53.026824951171875,
+              -373.56439208984375,
+              -0.8351202011108398
+            ],
+            [
+              -27.026824951171875,
+              -342.56439208984375,
+              11.664878845214844
+            ]
+          ],
+          "size": [
+            26.0,
+            31.0,
+            12.499999046325684
+          ],
+          "signed_volume": 4265.036050874468,
+          "nonmanifold_edges": 0
+        },
+        "上盖.stl": {
+          "vertices": 2758,
+          "triangles": 5532,
+          "bounds": [
+            [
+              46.695167541503906,
+              -457.5743408203125,
+              11.66487979888916
+            ],
+            [
+              75.1951675415039,
+              -423.77435302734375,
+              33.664878845214844
+            ]
+          ],
+          "size": [
+            28.5,
+            33.79998779296875,
+            21.999999046325684
+          ],
+          "signed_volume": 10907.525724845096,
+          "nonmanifold_edges": 48
+        },
+        "钻头.stl": {
+          "vertices": 2708,
+          "triangles": 5628,
+          "bounds": [
+            [
+              53.491943359375,
+              -389.2410888671875,
+              12.44554328918457
+            ],
+            [
+              68.8990249633789,
+              -366.4710998535156,
+              27.85262107849121
+            ]
+          ],
+          "size": [
+            15.407081604003906,
+            22.769989013671875,
+            15.40707778930664
+          ],
+          "signed_volume": -15801.328248536292,
+          "nonmanifold_edges": 122
+        }
+      }
+    },
+    {
+      "id": "S12",
+      "sha256": "bba9a5c79b8afa216e5956ddd07e06db1905c68dc621abfae85f820592d6f2a9",
+      "path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十七——“驳”四型旋转侧壁工程锯齿车.zip",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十七——“驳”四型旋转侧壁工程锯齿车.zip"
+      ],
+      "suffix": ".zip",
+      "archive_integrity": true,
+      "entries": [
+        "底.stl",
+        "黑.stl",
+        "机械臂1.stl",
+        "机械臂2.stl",
+        "锯齿.stl",
+        "轮子.stl",
+        "上盖.stl"
+      ],
+      "entry_hashes": {
+        "底.stl": "fb6304e6c07ed0542c708c3d7a8b3e789048992e09d086b39ae618ffb87dd897",
+        "黑.stl": "e7c1ae4861f5de5c0a40d19432e0fcb768bc0936b105ade16d81617cd9b1b314",
+        "机械臂1.stl": "64d5335cae5b4d4b575feb2c70b1f3ffe25e8a92a67b2ec959b7eea3668df04b",
+        "机械臂2.stl": "e665cd7919fc591d7816524460dd1ecf4699ba96dc0c746605742ec2a22ca6fa",
+        "锯齿.stl": "109db4e8e664722cb99366ea878a92f398cc03555eef95728e4727bf494cfe0e",
+        "轮子.stl": "d3e3218ba9ee200fb134f6c7f35c750b6a90fc671b63f17b30b10cb8d3caa10b",
+        "上盖.stl": "0800b4503048726f7c6543227562efa1700f4ce5466242e3e269ba413166ee6c"
+      },
+      "stl_meshes": {
+        "底.stl": {
+          "vertices": 3048,
+          "triangles": 6088,
+          "bounds": [
+            [
+              163.3960418701172,
+              -421.199462890625,
+              -0.8351247310638428
+            ],
+            [
+              193.3960418701172,
+              -385.19940185546875,
+              13.664885520935059
+            ]
+          ],
+          "size": [
+            30.0,
+            36.00006103515625,
+            14.500010251998901
+          ],
+          "signed_volume": 7097.598271860486,
+          "nonmanifold_edges": 0
+        },
+        "黑.stl": {
+          "vertices": 28,
+          "triangles": 44,
+          "bounds": [
+            [
+              1.134110927581787,
+              -410.6097412109375,
+              16.164884567260742
+            ],
+            [
+              12.534111022949219,
+              -398.7097473144531,
+              26.164884567260742
+            ]
+          ],
+          "size": [
+            11.400000095367432,
+            11.899993896484375,
+            10.0
+          ],
+          "signed_volume": 918.7716341887916,
+          "nonmanifold_edges": 0
+        },
+        "机械臂1.stl": {
+          "vertices": 1336,
+          "triangles": 2668,
+          "bounds": [
+            [
+              106.63320922851562,
+              -451.2660217285156,
+              16.835918426513672
+            ],
+            [
+              111.63218688964844,
+              -422.2660217285156,
+              26.835918426513672
+            ]
+          ],
+          "size": [
+            4.9989776611328125,
+            29.0,
+            10.0
+          ],
+          "signed_volume": 756.1348640751088,
+          "nonmanifold_edges": 0
+        },
+        "机械臂2.stl": {
+          "vertices": 1082,
+          "triangles": 2252,
+          "bounds": [
+            [
+              104.29920196533203,
+              -470.4302673339844,
+              18.335920333862305
+            ],
+            [
+              113.9658203125,
+              -442.80499267578125,
+              25.335926055908203
+            ]
+          ],
+          "size": [
+            9.666618347167969,
+            27.625274658203125,
+            7.000005722045898
+          ],
+          "signed_volume": 988.2308677537767,
+          "nonmanifold_edges": 72
+        },
+        "锯齿.stl": {
+          "vertices": 1324,
+          "triangles": 2608,
+          "bounds": [
+            [
+              106.73509216308594,
+              -478.2286682128906,
+              9.91589069366455
+            ],
+            [
+              111.53511047363281,
+              -454.3811950683594,
+              33.75592803955078
+            ]
+          ],
+          "size": [
+            4.800018310546875,
+            23.84747314453125,
+            23.84003734588623
+          ],
+          "signed_volume": 2059.162090232345,
+          "nonmanifold_edges": 0
+        },
+        "轮子.stl": {
+          "vertices": 1152,
+          "triangles": 2300,
+          "bounds": [
+            [
+              11.822500228881836,
+              -392.1097412109375,
+              -4.835116386413574
+            ],
+            [
+              20.822498321533203,
+              -379.1097412109375,
+              8.164883613586426
+            ]
+          ],
+          "size": [
+            8.999998092651367,
+            13.0,
+            13.0
+          ],
+          "signed_volume": 1793.7697628969302,
+          "nonmanifold_edges": 0
+        },
+        "上盖.stl": {
+          "vertices": 893,
+          "triangles": 1842,
+          "bounds": [
+            [
+              146.80441284179688,
+              -418.6353454589844,
+              8.664884567260742
+            ],
+            [
+              172.80441284179688,
+              -388.6353454589844,
+              26.164884567260742
+            ]
+          ],
+          "size": [
+            26.0,
+            30.0,
+            17.5
+          ],
+          "signed_volume": 6385.830660392207,
+          "nonmanifold_edges": 30
+        }
+      }
+    },
+    {
+      "id": "S13",
+      "sha256": "8e7c668698f5af58f9035be0a85d82fbe0a47e957d0ad79ce4067f69a8646807",
+      "path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十五——“双双”六型旋转侧壁工程抓料车 (1).zip",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十五——“双双”六型旋转侧壁工程抓料车 (1).zip",
+        "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十五——“双双”六型旋转侧壁工程抓料车.zip"
+      ],
+      "suffix": ".zip",
+      "archive_integrity": true,
+      "entries": [
+        "底.stl",
+        "黑.stl",
+        "机械臂1.stl",
+        "机械臂2.stl",
+        "机械臂3.stl",
+        "轮子.stl",
+        "上盖.stl",
+        "爪.stl",
+        "爪子.stl"
+      ],
+      "entry_hashes": {
+        "底.stl": "8674c48c471466b14cd05f0588ac78c174e921f2fe5f1db3d44b379e5e73c145",
+        "黑.stl": "eb655ccbcdbee90938c90e8767597df0cb527a40d0735f48f1d8fef7e70b9967",
+        "机械臂1.stl": "f4ac1a54b5c55c4a3dc303aea6c05e7fd8c23be4cdb3a7f0fa38510ee817406b",
+        "机械臂2.stl": "583318885e9bd4ddbf3063c03b5b9de33e3dbc1b44c28ca20e76d90dc72645a6",
+        "机械臂3.stl": "daa4b6d2f527b5621812362b7b61d2182dfc564d7fcbe05b7c3f5d1a9f26a3bd",
+        "轮子.stl": "1f06ba765f37661e7dc3449ef748d4661d5989d4814eda8e601d08461a6e5ec5",
+        "上盖.stl": "c7c3ce784bfc9887762e1f61a340addf0a8f8ccecb46f49fbcc3be939ab7cbb3",
+        "爪.stl": "481740e34a110b1b2b9c323249a403adfe6af0c32014f7bf65527faea20da109",
+        "爪子.stl": "ef585d6c088fad6922f4cd9b05cfe4ee65b3ae3ff4357505ac94ccc968723c9c"
+      },
+      "stl_meshes": {
+        "底.stl": {
+          "vertices": 3048,
+          "triangles": 6088,
+          "bounds": [
+            [
+              163.3960418701172,
+              -421.199462890625,
+              -0.8351247310638428
+            ],
+            [
+              193.3960418701172,
+              -385.19940185546875,
+              13.664885520935059
+            ]
+          ],
+          "size": [
+            30.0,
+            36.00006103515625,
+            14.500010251998901
+          ],
+          "signed_volume": 7097.598271860486,
+          "nonmanifold_edges": 0
+        },
+        "黑.stl": {
+          "vertices": 28,
+          "triangles": 44,
+          "bounds": [
+            [
+              1.134110927581787,
+              -410.6097412109375,
+              16.164884567260742
+            ],
+            [
+              12.534111022949219,
+              -398.7097473144531,
+              26.164884567260742
+            ]
+          ],
+          "size": [
+            11.400000095367432,
+            11.899993896484375,
+            10.0
+          ],
+          "signed_volume": 918.7716341887916,
+          "nonmanifold_edges": 0
+        },
+        "机械臂1.stl": {
+          "vertices": 1336,
+          "triangles": 2668,
+          "bounds": [
+            [
+              14.841594696044922,
+              -312.0302429199219,
+              14.572832107543945
+            ],
+            [
+              19.840576171875,
+              -285.0302429199219,
+              24.572832107543945
+            ]
+          ],
+          "size": [
+            4.998981475830078,
+            27.0,
+            10.0
+          ],
+          "signed_volume": 701.5936657678534,
+          "nonmanifold_edges": 0
+        },
+        "机械臂2.stl": {
+          "vertices": 1100,
+          "triangles": 2376,
+          "bounds": [
+            [
+              13.00759506225586,
+              -322.5692138671875,
+              16.07283592224121
+            ],
+            [
+              21.674213409423828,
+              -303.5692138671875,
+              23.072839736938477
+            ]
+          ],
+          "size": [
+            8.666618347167969,
+            19.0,
+            7.000003814697266
+          ],
+          "signed_volume": 692.7110528516496,
+          "nonmanifold_edges": 132
+        },
+        "机械臂3.stl": {
+          "vertices": 1077,
+          "triangles": 2144,
+          "bounds": [
+            [
+              167.25283813476562,
+              -334.47442626953125,
+              14.374042510986328
+            ],
+            [
+              172.253662109375,
+              -315.89373779296875,
+              24.374042510986328
+            ]
+          ],
+          "size": [
+            5.000823974609375,
+            18.5806884765625,
+            10.0
+          ],
+          "signed_volume": 462.50552578901716,
+          "nonmanifold_edges": 0
+        },
+        "轮子.stl": {
+          "vertices": 1152,
+          "triangles": 2300,
+          "bounds": [
+            [
+              11.822500228881836,
+              -392.1097412109375,
+              -4.835116386413574
+            ],
+            [
+              20.822498321533203,
+              -379.1097412109375,
+              8.164883613586426
+            ]
+          ],
+          "size": [
+            8.999998092651367,
+            13.0,
+            13.0
+          ],
+          "signed_volume": 1793.7697628969302,
+          "nonmanifold_edges": 0
+        },
+        "上盖.stl": {
+          "vertices": 931,
+          "triangles": 1898,
+          "bounds": [
+            [
+              -10.965888977050781,
+              -414.6097412109375,
+              8.664884567260742
+            ],
+            [
+              15.034111022949219,
+              -384.6097412109375,
+              26.164884567260742
+            ]
+          ],
+          "size": [
+            26.0,
+            30.0,
+            17.5
+          ],
+          "signed_volume": 6379.256034405716,
+          "nonmanifold_edges": 24
+        },
+        "爪.stl": {
+          "vertices": 4872,
+          "triangles": 9736,
+          "bounds": [
+            [
+              11.346078872680664,
+              -345.6017761230469,
+              13.063098907470703
+            ],
+            [
+              23.27695083618164,
+              -334.3517761230469,
+              23.874040603637695
+            ]
+          ],
+          "size": [
+            11.930871963500977,
+            11.25,
+            10.810941696166992
+          ],
+          "signed_volume": 383.4238757919613,
+          "nonmanifold_edges": 0
+        },
+        "爪子.stl": {
+          "vertices": 1246,
+          "triangles": 2488,
+          "bounds": [
+            [
+              -165.17770385742188,
+              -92.93988800048828,
+              7.250000953674316
+            ],
+            [
+              -160.17764282226562,
+              -86.67890167236328,
+              19.864286422729492
+            ]
+          ],
+          "size": [
+            5.00006103515625,
+            6.260986328125,
+            12.614285469055176
+          ],
+          "signed_volume": 187.341903123746,
+          "nonmanifold_edges": 0
+        }
+      }
+    },
+    {
+      "id": "S14",
+      "sha256": "fe4b8cf5258b5dec30574608ba845b3691312ec7233ac4bcf2a44cc3a0a3622f",
+      "path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车.zip",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车.zip"
+      ],
+      "suffix": ".zip",
+      "archive_integrity": true,
+      "entries": [
+        "底.stl",
+        "黑.stl",
+        "机械臂1.stl",
+        "机械臂2.stl",
+        "机械臂3.stl",
+        "轮子.stl",
+        "上盖.stl",
+        "钻头.stl"
+      ],
+      "entry_hashes": {
+        "底.stl": "fa256f467893eb14270fa275c67610c4d52b8cfa427a115b9ac3ace283f7cd36",
+        "黑.stl": "dd6c409de9e6313e657c4098a584063793ccffb985081890508ec999471e804d",
+        "机械臂1.stl": "8809c74028e3d013bf4584b63feb1b2e309a1ed2670cb1b39a61484a7055d43d",
+        "机械臂2.stl": "784e7cc0a05135a85540aa1cef27c7715f7b45554696feaf6c5286f6fe5d2a57",
+        "机械臂3.stl": "b0561492093fd6a391522a11efe841552c94762e6aed57b093b09c1fb46726c5",
+        "轮子.stl": "5c7870265c73f73305c375dec7782b7b20082b3d6871e95e4e1c9b02b97f4500",
+        "上盖.stl": "af1c99301ab817e945e5763bfaa414fe59fcfe597b13fc5ac677451ed2621ffc",
+        "钻头.stl": "fe2dd41937123f90a46d95afcf3700fae8777a960d4c8f33650b986c6535c153"
+      },
+      "stl_meshes": {
+        "底.stl": {
+          "vertices": 3048,
+          "triangles": 6088,
+          "bounds": [
+            [
+              163.3960418701172,
+              -421.199462890625,
+              -0.8351247310638428
+            ],
+            [
+              193.3960418701172,
+              -385.19940185546875,
+              13.664885520935059
+            ]
+          ],
+          "size": [
+            30.0,
+            36.00006103515625,
+            14.500010251998901
+          ],
+          "signed_volume": 7097.598271860486,
+          "nonmanifold_edges": 0
+        },
+        "黑.stl": {
+          "vertices": 28,
+          "triangles": 44,
+          "bounds": [
+            [
+              1.134110927581787,
+              -410.6097412109375,
+              16.164884567260742
+            ],
+            [
+              12.534111022949219,
+              -398.7097473144531,
+              26.164884567260742
+            ]
+          ],
+          "size": [
+            11.400000095367432,
+            11.899993896484375,
+            10.0
+          ],
+          "signed_volume": 918.7716341887916,
+          "nonmanifold_edges": 0
+        },
+        "机械臂1.stl": {
+          "vertices": 1336,
+          "triangles": 2668,
+          "bounds": [
+            [
+              14.841594696044922,
+              -312.0302429199219,
+              14.572832107543945
+            ],
+            [
+              19.840576171875,
+              -285.0302429199219,
+              24.572832107543945
+            ]
+          ],
+          "size": [
+            4.998981475830078,
+            27.0,
+            10.0
+          ],
+          "signed_volume": 701.5936657678534,
+          "nonmanifold_edges": 0
+        },
+        "机械臂2.stl": {
+          "vertices": 1100,
+          "triangles": 2376,
+          "bounds": [
+            [
+              13.00759506225586,
+              -322.5692138671875,
+              16.07283592224121
+            ],
+            [
+              21.674213409423828,
+              -303.5692138671875,
+              23.072839736938477
+            ]
+          ],
+          "size": [
+            8.666618347167969,
+            19.0,
+            7.000003814697266
+          ],
+          "signed_volume": 692.7110528516496,
+          "nonmanifold_edges": 132
+        },
+        "机械臂3.stl": {
+          "vertices": 1077,
+          "triangles": 2144,
+          "bounds": [
+            [
+              106.60270690917969,
+              -470.7720947265625,
+              16.637128829956055
+            ],
+            [
+              111.60352325439453,
+              -454.19140625,
+              26.637128829956055
+            ]
+          ],
+          "size": [
+            5.000816345214844,
+            16.5806884765625,
+            10.0
+          ],
+          "signed_volume": 400.90024583953374,
+          "nonmanifold_edges": 0
+        },
+        "轮子.stl": {
+          "vertices": 1152,
+          "triangles": 2300,
+          "bounds": [
+            [
+              11.822500228881836,
+              -392.1097412109375,
+              -4.835116386413574
+            ],
+            [
+              20.822498321533203,
+              -379.1097412109375,
+              8.164883613586426
+            ]
+          ],
+          "size": [
+            8.999998092651367,
+            13.0,
+            13.0
+          ],
+          "signed_volume": 1793.7697628969302,
+          "nonmanifold_edges": 0
+        },
+        "上盖.stl": {
+          "vertices": 885,
+          "triangles": 1826,
+          "bounds": [
+            [
+              101.75070190429688,
+              -418.6353454589844,
+              8.664884567260742
+            ],
+            [
+              127.75070190429688,
+              -388.6353454589844,
+              26.164884567260742
+            ]
+          ],
+          "size": [
+            26.0,
+            30.0,
+            17.5
+          ],
+          "signed_volume": 6382.250215572669,
+          "nonmanifold_edges": 30
+        },
+        "钻头.stl": {
+          "vertices": 2711,
+          "triangles": 5628,
+          "bounds": [
+            [
+              102.90394592285156,
+              -486.1602478027344,
+              15.271562576293945
+            ],
+            [
+              115.74317169189453,
+              -465.4602355957031,
+              28.110794067382812
+            ]
+          ],
+          "size": [
+            12.839225769042969,
+            20.70001220703125,
+            12.839231491088867
+          ],
+          "signed_volume": 14714.253426860765,
+          "nonmanifold_edges": 122
+        }
+      }
+    },
+    {
+      "id": "S15",
+      "sha256": "8674c48c471466b14cd05f0588ac78c174e921f2fe5f1db3d44b379e5e73c145",
+      "path": "D:\\AI3D建模\\公羽机甲\\底.stl",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\底.stl"
+      ],
+      "suffix": ".stl",
+      "mesh": {
+        "vertices": 3048,
+        "triangles": 6088,
+        "bounds": [
+          [
+            163.3960418701172,
+            -421.199462890625,
+            -0.8351247310638428
+          ],
+          [
+            193.3960418701172,
+            -385.19940185546875,
+            13.664885520935059
+          ]
+        ],
+        "size": [
+          30.0,
+          36.00006103515625,
+          14.500010251998901
+        ],
+        "signed_volume": 7097.598271860486,
+        "nonmanifold_edges": 0
+      },
+      "units": "STL has no units; not inferred"
+    },
+    {
+      "id": "S16",
+      "sha256": "f4ac1a54b5c55c4a3dc303aea6c05e7fd8c23be4cdb3a7f0fa38510ee817406b",
+      "path": "D:\\AI3D建模\\公羽机甲\\机械臂1.stl",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\机械臂1.stl"
+      ],
+      "suffix": ".stl",
+      "mesh": {
+        "vertices": 1336,
+        "triangles": 2668,
+        "bounds": [
+          [
+            14.841594696044922,
+            -312.0302429199219,
+            14.572832107543945
+          ],
+          [
+            19.840576171875,
+            -285.0302429199219,
+            24.572832107543945
+          ]
+        ],
+        "size": [
+          4.998981475830078,
+          27.0,
+          10.0
+        ],
+        "signed_volume": 701.5936657678534,
+        "nonmanifold_edges": 0
+      },
+      "units": "STL has no units; not inferred"
+    },
+    {
+      "id": "S17",
+      "sha256": "583318885e9bd4ddbf3063c03b5b9de33e3dbc1b44c28ca20e76d90dc72645a6",
+      "path": "D:\\AI3D建模\\公羽机甲\\机械臂2.stl",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\机械臂2.stl"
+      ],
+      "suffix": ".stl",
+      "mesh": {
+        "vertices": 1100,
+        "triangles": 2376,
+        "bounds": [
+          [
+            13.00759506225586,
+            -322.5692138671875,
+            16.07283592224121
+          ],
+          [
+            21.674213409423828,
+            -303.5692138671875,
+            23.072839736938477
+          ]
+        ],
+        "size": [
+          8.666618347167969,
+          19.0,
+          7.000003814697266
+        ],
+        "signed_volume": 692.7110528516496,
+        "nonmanifold_edges": 132
+      },
+      "units": "STL has no units; not inferred"
+    },
+    {
+      "id": "S18",
+      "sha256": "eb655ccbcdbee90938c90e8767597df0cb527a40d0735f48f1d8fef7e70b9967",
+      "path": "D:\\AI3D建模\\公羽机甲\\黑.stl",
+      "aliases": [
+        "D:\\AI3D建模\\公羽机甲\\黑.stl"
+      ],
+      "suffix": ".stl",
+      "mesh": {
+        "vertices": 28,
+        "triangles": 44,
+        "bounds": [
+          [
+            1.134110927581787,
+            -410.6097412109375,
+            16.164884567260742
+          ],
+          [
+            12.534111022949219,
+            -398.7097473144531,
+            26.164884567260742
+          ]
+        ],
+        "size": [
+          11.400000095367432,
+          11.899993896484375,
+          10.0
+        ],
+        "signed_volume": 918.7716341887916,
+        "nonmanifold_edges": 0
+      },
+      "units": "STL has no units; not inferred"
+    }
+  ]
+}

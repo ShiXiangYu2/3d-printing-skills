@@ -1,0 +1,643 @@
+{
+  "id": "S04",
+  "source_sha256": "78a370112d47aebc87d5597849df33f0b101a5826f24df3af4e717113c80ba4f",
+  "source_path": "D:\\AI3D建模\\公羽机甲\\41-2、狡一体多色.3mf",
+  "unit": "millimeter",
+  "metadata": {
+    "Application": "BambuStudio-01.10.01.50",
+    "BambuStudio:3mfVersion": "1",
+    "CopyRight": "\"[]\"",
+    "Copyright": "[]",
+    "CreationDate": "2025-01-23",
+    "Description": "&lt;h2&gt;公羽机甲出品&lt;/h2&gt;&lt;h2&gt;&lt;strong&gt;山海经机甲系列四十一——“狡”型工程装甲叉车&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;该系列以山海经中的神话生物为原型创作的机甲。另外还有&lt;strong&gt;八卦机甲&lt;/strong&gt;（以各省份名山大川为原型，巢湖、骊山、八达岭、纳木错等）和&lt;strong&gt;神话机甲&lt;/strong&gt;（以深化人物为原型，孙悟空、杨戬、牛魔王等）。&lt;/p&gt;&lt;h2&gt;&lt;span style=&#34;color: #E14747&#34;&gt;简单、好打、易装、不易失败、不易摔坏！&lt;/span&gt;&lt;/h2&gt;&lt;h2&gt;&lt;span style=&#34;color: #E14747&#34;&gt;注：最好在打印板上涂胶水或者喷喷雾防止打印失败，炒面的最主要原因就是打印版太光滑&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;打印不用支撑（如果底板不粘可以自己加裙边），组装不需要胶水和五金件（如果偏紧就用力按压或者用小锤轻轻敲打），非常方便的中国风拼装模型！&lt;/p&gt;&lt;boostme&gt;&lt;boosttitle&gt;为我助力&lt;/boosttitle&gt;&lt;/boostme&gt;&lt;h2&gt;狡：&lt;/h2&gt;&lt;p&gt;中国古代神话中的形象，样子像狗，叫声也像狗，身上有豹纹，头上有牛角。它是瑞兽，出现则预示着天下五谷丰登。&lt;br&gt;有兽焉，其状如犬而豹文，其角如牛，其名曰狡，其音如吠犬，见则其国大穰。——《山海经·西山经》&lt;/p&gt;&lt;h2&gt;设计思路：&lt;/h2&gt;&lt;p&gt;轮胎花纹和车身纹路对应豹纹，牛角对应叉车叉齿&lt;/p&gt;&lt;h2&gt;拼装示意：&lt;/h2&gt;&lt;h2&gt;&lt;span style=&#34;color: #E14747&#34;&gt;&lt;i&gt;&lt;u&gt;叉齿太紧的话可以单独下载宽松版的叉齿进行安装。&lt;/u&gt;&lt;/i&gt;&lt;/span&gt;&lt;/h2&gt;&lt;figure class=&#34;image&#34;&gt;&lt;img src=&#34;https://makerworld.bblmw.cn/makerworld/model/DSM00000000794479/design/2025-01-01_a06bb00549af1.png&#34;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&#34;image&#34;&gt;&lt;img src=&#34;https://makerworld.bblmw.cn/makerworld/model/DSM00000000794479/design/2025-01-01_bccce4adf962c.png&#34;&gt;&lt;/figure&gt;&lt;figure class=&#34;image&#34;&gt;&lt;img src=&#34;https://makerworld.bblmw.cn/makerworld/model/DSM00000000794479/design/2025-01-01_8a75ce4a6b8a8.png&#34;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+    "DesignModelId": "CN1c567e37b2ab89",
+    "DesignProfileId": "39147967",
+    "DesignRegion": "CN",
+    "Designer": "公羽机甲",
+    "DesignerCover": "2025-01-01_1472157c79c5e.png",
+    "DesignerUserId": "3946080816",
+    "License": "Standard Digital File License",
+    "ModificationDate": "2025-01-23",
+    "Origin": "original",
+    "ProfileCover": "2025-01-01_20dd7cc5263e1.png",
+    "ProfileTitle": "41、P1S/P1P一体多色（无AMS也可单色打印）——0.2mm 层高, 3 层墙, 15% 填充",
+    "ProfileUserId": "3946080816",
+    "ProfileUserName": "公羽机甲",
+    "Thumbnail_Middle": "/Metadata/plate_1.png",
+    "Thumbnail_Small": "/Metadata/plate_1_small.png",
+    "Title": "山海经机甲系列四十一——“狡”型工程装甲叉车"
+  },
+  "instances": [
+    {
+      "group": "2",
+      "object_id": "1",
+      "resource": "3D/Objects/object_24.model",
+      "name": "叉.stl",
+      "transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          39.4302865
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          44.5164075
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          8.34899998
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          23.491287300000003,
+          35.19140769,
+          0.0
+        ],
+        [
+          55.3692857,
+          53.84140731,
+          16.69799996
+        ]
+      ],
+      "world_size": [
+        31.877998399999996,
+        18.649999620000003,
+        16.69799996
+      ],
+      "mesh": {
+        "vertices": 543,
+        "triangles": 1082,
+        "bounds": [
+          [
+            -15.9389992,
+            -9.32499981,
+            -8.34899998
+          ],
+          [
+            15.9389992,
+            9.32499981,
+            8.34899998
+          ]
+        ],
+        "size": [
+          31.8779984,
+          18.64999962,
+          16.69799996
+        ],
+        "signed_volume": 3229.016597457781,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "5",
+      "object_id": "3",
+      "resource": "3D/Objects/object_39.model",
+      "name": "轮胎.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          170.7663628
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          51.033549400000005
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          4.675001140000001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          162.48419726999998,
+          42.751391500000004,
+          -8.881784197001252e-16
+        ],
+        [
+          179.04852833,
+          59.31570730000001,
+          9.350002280000002
+        ]
+      ],
+      "world_size": [
+        16.56433106000003,
+        16.564315800000003,
+        9.350002280000002
+      ],
+      "mesh": {
+        "vertices": 2271,
+        "triangles": 4538,
+        "bounds": [
+          [
+            -4.67500114,
+            -8.2821579,
+            -8.28216553
+          ],
+          [
+            4.67500114,
+            8.2821579,
+            8.28216553
+          ]
+        ],
+        "size": [
+          9.35000228,
+          16.5643158,
+          16.56433106
+        ],
+        "signed_volume": 1506.3727903922334,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "5",
+      "object_id": "3",
+      "resource": "3D/Objects/object_39.model",
+      "name": "轮胎.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          170.7663628
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          33.4692357
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          4.675001140000001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          162.48419726999998,
+          25.187077799999997,
+          -8.881784197001252e-16
+        ],
+        [
+          179.04852833,
+          41.7513936,
+          9.350002280000002
+        ]
+      ],
+      "world_size": [
+        16.56433106000003,
+        16.564315800000003,
+        9.350002280000002
+      ],
+      "mesh": {
+        "vertices": 2271,
+        "triangles": 4538,
+        "bounds": [
+          [
+            -4.67500114,
+            -8.2821579,
+            -8.28216553
+          ],
+          [
+            4.67500114,
+            8.2821579,
+            8.28216553
+          ]
+        ],
+        "size": [
+          9.35000228,
+          16.5643158,
+          16.56433106
+        ],
+        "signed_volume": 1506.3727903922334,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "5",
+      "object_id": "3",
+      "resource": "3D/Objects/object_39.model",
+      "name": "轮胎.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          188.76064090999998
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          33.13050818000001
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          4.675001140000001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          180.47847537999996,
+          24.848350280000005,
+          -8.881784197001252e-16
+        ],
+        [
+          197.04280644,
+          41.41266608000001,
+          9.350002280000002
+        ]
+      ],
+      "world_size": [
+        16.56433106000003,
+        16.564315800000003,
+        9.350002280000002
+      ],
+      "mesh": {
+        "vertices": 2271,
+        "triangles": 4538,
+        "bounds": [
+          [
+            -4.67500114,
+            -8.2821579,
+            -8.28216553
+          ],
+          [
+            4.67500114,
+            8.2821579,
+            8.28216553
+          ]
+        ],
+        "size": [
+          9.35000228,
+          16.5643158,
+          16.56433106
+        ],
+        "signed_volume": 1506.3727903922334,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "5",
+      "object_id": "3",
+      "resource": "3D/Objects/object_39.model",
+      "name": "轮胎.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          188.33069387
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          51.0335515
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          4.675001140000001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          180.04852834000002,
+          42.7513936,
+          -8.881784197001252e-16
+        ],
+        [
+          196.6128594,
+          59.3157094,
+          9.350002280000002
+        ]
+      ],
+      "world_size": [
+        16.564331059999972,
+        16.564315800000003,
+        9.350002280000002
+      ],
+      "mesh": {
+        "vertices": 2271,
+        "triangles": 4538,
+        "bounds": [
+          [
+            -4.67500114,
+            -8.2821579,
+            -8.28216553
+          ],
+          [
+            4.67500114,
+            8.2821579,
+            8.28216553
+          ]
+        ],
+        "size": [
+          9.35000228,
+          16.5643158,
+          16.56433106
+        ],
+        "signed_volume": 1506.3727903922334,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "5",
+      "object_id": "4",
+      "resource": "3D/Objects/object_39.model",
+      "name": "2中骨架.stl",
+      "transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          216.27812949999998
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          42.218096
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          12.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          200.50724019999998,
+          24.2727682,
+          0.0
+        ],
+        [
+          232.04901879999997,
+          60.163423800000004,
+          25.5
+        ]
+      ],
+      "world_size": [
+        31.541778599999986,
+        35.8906556,
+        25.5
+      ],
+      "mesh": {
+        "vertices": 2133,
+        "triangles": 4238,
+        "bounds": [
+          [
+            -15.7708893,
+            -17.9453278,
+            -12.75
+          ],
+          [
+            15.7708893,
+            17.9453278,
+            12.75
+          ]
+        ],
+        "size": [
+          31.5417786,
+          35.8906556,
+          25.5
+        ],
+        "signed_volume": 6106.5541050736965,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "8",
+      "object_id": "6",
+      "resource": "3D/Objects/object_38.model",
+      "name": "2底.stl",
+      "transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          75.4080148
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          207.781788
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          65.4080148,
+          190.55911650000002,
+          0.0
+        ],
+        [
+          85.4080148,
+          225.0044595,
+          7.5
+        ]
+      ],
+      "world_size": [
+        20.0,
+        34.44534299999998,
+        7.5
+      ],
+      "mesh": {
+        "vertices": 1184,
+        "triangles": 2356,
+        "bounds": [
+          [
+            -10.0,
+            -17.2226715,
+            -3.75
+          ],
+          [
+            10.0,
+            17.2226715,
+            3.75
+          ]
+        ],
+        "size": [
+          20.0,
+          34.445343,
+          7.5
+        ],
+        "signed_volume": 1858.6904907551873,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "8",
+      "object_id": "7",
+      "resource": "3D/Objects/object_38.model",
+      "name": "2上盖.stl",
+      "transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          49.4555094
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          207.154508719
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          9.50300026
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          36.35650939999999,
+          190.679508319,
+          0.0
+        ],
+        [
+          62.5545094,
+          223.629509119,
+          19.00600052
+        ]
+      ],
+      "world_size": [
+        26.198000000000008,
+        32.9500008,
+        19.00600052
+      ],
+      "mesh": {
+        "vertices": 1135,
+        "triangles": 2266,
+        "bounds": [
+          [
+            -13.099,
+            -16.4750004,
+            -9.50300026
+          ],
+          [
+            13.099,
+            16.4750004,
+            9.50300026
+          ]
+        ],
+        "size": [
+          26.198,
+          32.9500008,
+          19.00600052
+        ],
+        "signed_volume": 6636.720768237075,
+        "nonmanifold_edges": 0
+      }
+    }
+  ],
+  "mesh_count": 5,
+  "instance_count": 8,
+  "group_count": 3,
+  "project_settings": {
+    "printer_model": "Bambu Lab P1S",
+    "printer_settings_id": "Bambu Lab P1S 0.4 nozzle",
+    "nozzle_diameter": [
+      "0.4"
+    ],
+    "layer_height": "0.2",
+    "wall_loops": "3",
+    "sparse_infill_density": "15%",
+    "enable_prime_tower": "1",
+    "enable_support": "0",
+    "print_sequence": "by layer",
+    "filament_colour": [
+      "#FCECD6",
+      "#F72323",
+      "#FFFF00"
+    ]
+  },
+  "plate_overrides": [
+    {
+      "plater_id": "1",
+      "plater_name": "",
+      "locked": "false",
+      "print_sequence": "by object",
+      "gcode_file": "Metadata/plate_1.gcode",
+      "thumbnail_file": "Metadata/plate_1.png",
+      "thumbnail_no_light_file": "Metadata/plate_no_light_1.png",
+      "top_file": "Metadata/top_1.png",
+      "pick_file": "Metadata/pick_1.png"
+    }
+  ],
+  "descriptions": {}
+}

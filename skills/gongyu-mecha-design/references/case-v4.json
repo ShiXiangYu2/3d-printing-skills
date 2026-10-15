@@ -1,0 +1,11 @@
+{
+  "source_case": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4",
+  "digital_tests": 16,
+  "parts": 11,
+  "source_pair": "207 下.stl integrated split axle + 轮胎.stl",
+  "physical_fit_verified": false,
+  "gui_reopen_verified": false,
+  "main_seconds": 6111,
+  "trial_seconds": 4971,
+  "no_benchmark_speedup_claim": true
+}

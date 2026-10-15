@@ -1,0 +1,26 @@
+{
+  "name": "governed-skill-lifecycle",
+  "version": "1.0.0",
+  "status": "validated_candidate",
+  "require_human_approval": true,
+  "recursive_deletion": false,
+  "network_downloads": false,
+  "origin": "User requirements and verified local implementation; no standalone upstream release feed",
+  "sources": [
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\mecha-forklift-a1mini-v4\\build_mini.py",
+      "sha256": "51b2b10d72269194960b23e02e9f8196e65aa803963fe0edd957cabf1e514438",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\mecha-forklift-a1mini-v4\\verify_publish.py",
+      "sha256": "a23003667f4daaeee3f17e2fa093d88be1284c1e6898c10bc9c52e71cf752c9d",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\skills\\skill-manager\\SKILL.md",
+      "sha256": "adbc41dbd367dbc5cc67a7499f75123563238dd41e495b2d7a0d640c9a6da6fe",
+      "kind": "local-source"
+    }
+  ]
+}

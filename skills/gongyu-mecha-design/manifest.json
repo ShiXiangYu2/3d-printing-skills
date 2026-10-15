@@ -1,0 +1,180 @@
+{
+  "name": "gongyu-mecha-design",
+  "version": "1.1.0",
+  "status": "validated_candidate",
+  "require_human_approval": true,
+  "recursive_deletion": false,
+  "network_downloads": false,
+  "origin": "User-provided Gongyu model files and local evidence-grounded distillation; no official upstream skill feed",
+  "sources": [
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\156、A1mini一体多色 (1).3mf",
+      "sha256": "28c394ecc722bbb56bef422b233e6a2e76aed5e286109352e881aae51868988c",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\207、一体多色.3mf",
+      "sha256": "435ebd946506bc0ffed585b6a087752cf48f7b28f80948779430d901d9c1bceb",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\3、抛石机——A1mini一体多色 (1).3mf",
+      "sha256": "d75058cb33f6eb1d2c5321c96225d22845ca33d7c7e4ee63222369c7687398c3",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\41-2、狡一体多色.3mf",
+      "sha256": "78a370112d47aebc87d5597849df33f0b101a5826f24df3af4e717113c80ba4f",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\43、a1MINI一体多色.3mf",
+      "sha256": "d0d2eccf833564557113553ab1f975351d63eebdd18845e229f63a4f12ce2f67",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\43、一体多色 (1).3mf",
+      "sha256": "386738ae425dc21a74c309ad3c86b8a1291367cb894ec53a52aa36153f32f527",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\46、从从A1mini一体多色.3mf",
+      "sha256": "dcb5e8a260d958590142bd2e29b2523a5585e13956c4257282cf01e328f83e0c",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\46、从从一体多色 (1).3mf",
+      "sha256": "87fd4cb4863ce92ab3746d9f9a4c0d1d808a7f9286c66da61c7805c9bf2ddc6d",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\86、A1mini一体多色.3mf",
+      "sha256": "cf4021c0e8f32fd45e0a631b02fb87c6f0da5a3a16e736e79da4f4c056a1329d",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\A1mini夫诸单色.3mf",
+      "sha256": "d34622ed9ffdd5864aca4b18098cd8a7fb881f3840d63d3011783486734cfecf",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百三十二——“䑏疏”五型重型钻山工程车 (1).zip",
+      "sha256": "c9d695ce277c50b1cc35a820c7ef9a2e2b62a0fe154ea31a1c5e4df1600a562c",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十七——“驳”四型旋转侧壁工程锯齿车.zip",
+      "sha256": "bba9a5c79b8afa216e5956ddd07e06db1905c68dc621abfae85f820592d6f2a9",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十五——“双双”六型旋转侧壁工程抓料车 (1).zip",
+      "sha256": "8e7c668698f5af58f9035be0a85d82fbe0a47e957d0ad79ce4067f69a8646807",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车.zip",
+      "sha256": "fe4b8cf5258b5dec30574608ba845b3691312ec7233ac4bcf2a44cc3a0a3622f",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\底.stl",
+      "sha256": "8674c48c471466b14cd05f0588ac78c174e921f2fe5f1db3d44b379e5e73c145",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\机械臂1.stl",
+      "sha256": "f4ac1a54b5c55c4a3dc303aea6c05e7fd8c23be4cdb3a7f0fa38510ee817406b",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\机械臂2.stl",
+      "sha256": "583318885e9bd4ddbf3063c03b5b9de33e3dbc1b44c28ca20e76d90dc72645a6",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\公羽机甲\\黑.stl",
+      "sha256": "eb655ccbcdbee90938c90e8767597df0cb527a40d0735f48f1d8fef7e70b9967",
+      "kind": "user-model-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.codex\\skills\\lineage-skill\\SKILL.md",
+      "sha256": "cf4d9dffaf9306d637174c6415540d0ef6345df836f346d13b2b7d820d369322",
+      "kind": "local-distillation-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.codex\\skills\\lineage-skill\\scripts\\build_course_skill.py",
+      "sha256": "0e3e24ef44b21419f359a7f9a928325ccdd1b7ca0bb97f29ae637af7e65e5c11",
+      "kind": "local-distillation-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.codex\\skills\\lineage-skill\\scripts\\build_okf_bundle.py",
+      "sha256": "0d0712893c390653171bf4f5ef880080c6602fb01b24e546d245098ea1d38144",
+      "kind": "local-distillation-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.codex\\skills\\governed-skill-lifecycle\\scripts\\lifecycle.py",
+      "sha256": "0e361375ff5f41e4975619ad12cd5c6ba9a71e7211366b419f09216151b1b236",
+      "kind": "local-distillation-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.codex\\skills\\governed-skill-lifecycle\\scripts\\atomic_move.ps1",
+      "sha256": "7ae1bc09fb27b78419ba87aabda94517536fed6b87346adef52c4c1f0472fdd7",
+      "kind": "local-distillation-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.codex\\skills\\3d-print-design\\SKILL.md",
+      "sha256": "2595c8b0e249f21304b5ebfe25584012bf869ac454ec5415a14a48aca3bda66d",
+      "kind": "local-distillation-source"
+    },
+    {
+      "path": "D:\\workbuddy\\3D打印\\distill_gongyu.py",
+      "sha256": "765618f91b77342da4a2aaa2e798acc024908284b95875da036ce21575a6c5ed",
+      "kind": "local-distillation-source"
+    },
+    {
+      "path": "D:\\workbuddy\\3D打印\\package_gongyu_skill.py",
+      "sha256": "fdd984ed436522e708ebbaacbf7e532d026494bf0e4a94bf6ee41a4ea1d6d240",
+      "kind": "local-distillation-source"
+    },
+    {
+      "path": "D:\\workbuddy\\3D打印\\validate_gongyu_skill.py",
+      "sha256": "34da2eeeaf575b6dc5d8f1a095b60005fdf7ff2072704ebec98eaa447f82427f",
+      "kind": "local-validation-source"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\装配复核-v4.json",
+      "sha256": "abbf1a56b3f5cb80febcff5e5dd9a66b22c487b17d47a3fe4f530f64a18fb4d0",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\原型接口保真检查.json",
+      "sha256": "7f09fa63eac2fe8aa648a8626f5817fbcbf73262c92bbfa6e28e4f517dc3024a",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\最终3MF几何一致性复核.json",
+      "sha256": "4d24785492162f2e2e03e183fc7dfbcf47c0db7b3fda3cf8b2768bbcb1a5fe21",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\逐组打印顺序检查.json",
+      "sha256": "95f89191412f6bbcd8fa3dfb5d451f28638d19625bffbe69802dde2b401ed76c",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\制作复盘.md",
+      "sha256": "33c23617ded793f789e749ef2ada0fb60546cbc212777237650b68765d52d2d1",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\v4轮轴替换说明.md",
+      "sha256": "5e19d0f8e63853eb5e02ddcc20e64542ea3132691b8c48c82f62318c7ecbca7c",
+      "kind": "local-implementation-evidence"
+    }
+  ],
+  "validation_evidence": [
+    "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010\\validation.json"
+  ],
+  "weight_training": false
+}

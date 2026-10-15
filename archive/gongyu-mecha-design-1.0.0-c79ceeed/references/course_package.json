@@ -1,0 +1,882 @@
+{
+  "schema_version": "0.1",
+  "manifest": {
+    "course_name": "公羽机甲模型结构与制作方法",
+    "package_type": "domain-model-library",
+    "source_dir": "C:\\Users\\18168\\.agents\\artifacts\\gongyu-mecha-distillation-20261010",
+    "source_state": "original-3mf-stl-archives-and-embedded-photos",
+    "distillation_method": "local geometry/config extraction + assistant visual review and source-grounded synthesis",
+    "weight_training": false
+  },
+  "lessons": [
+    {
+      "id": "S01",
+      "title": "山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\156、A1mini一体多色 (1).3mf"
+    },
+    {
+      "id": "S02",
+      "title": "山海经机甲系列二百零七——“䑏疏”五·改型重型工程钻车",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\207、一体多色.3mf"
+    },
+    {
+      "id": "S03",
+      "title": "中国兵器系列——攻城器械——投石车",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\3、抛石机——A1mini一体多色 (1).3mf"
+    },
+    {
+      "id": "S04",
+      "title": "山海经机甲系列四十一——“狡”型工程装甲叉车",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\41-2、狡一体多色.3mf"
+    },
+    {
+      "id": "S05",
+      "title": "山海经机甲系列四十三——“蜚”型工程装甲挖掘机",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\43、a1MINI一体多色.3mf"
+    },
+    {
+      "id": "S06",
+      "title": "山海经机甲系列四十三——“蜚”型工程装甲挖掘机",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\43、一体多色 (1).3mf"
+    },
+    {
+      "id": "S07",
+      "title": "山海经机甲系列四十六——“从从”型武装火炮装甲车",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\46、从从A1mini一体多色.3mf"
+    },
+    {
+      "id": "S08",
+      "title": "山海经机甲系列四十六——“从从”型武装火炮装甲车",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\46、从从一体多色 (1).3mf"
+    },
+    {
+      "id": "S09",
+      "title": "山海经机甲系列八十六——“驳”二型旋转工程装甲链锯车",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\86、A1mini一体多色.3mf"
+    },
+    {
+      "id": "S10",
+      "title": "山海经机甲系列十二——“夫诸”型突击重火力战车",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\A1mini夫诸单色.3mf"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "C01",
+      "title": "块状主体与装甲层次",
+      "name": "块状主体与装甲层次",
+      "summary": "成品照片中的主体以短厚盒状体块为主，台阶、边框、浅槽、筋条构成局部层次；工程端伸出主体形成明确功能方向。新作先做底盘/车壳/工具三个体块，再加局部细节，不从装饰碎片堆造型。",
+      "content": "成品照片中的主体以短厚盒状体块为主，台阶、边框、浅槽、筋条构成局部层次；工程端伸出主体形成明确功能方向。新作先做底盘/车壳/工具三个体块，再加局部细节，不从装饰碎片堆造型。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "C02",
+      "title": "轮毂与成组重复",
+      "name": "轮毂与成组重复",
+      "summary": "四轮/六轮工程车在多个样本重复出现，同心圈轮毂和规则胎纹在源照片可见；S10为多足机甲例外。重复的轮子/腿是视觉节奏与制作效率来源，不把所有作品强制为六轮。",
+      "content": "四轮/六轮工程车在多个样本重复出现，同心圈轮毂和规则胎纹在源照片可见；S10为多足机甲例外。重复的轮子/腿是视觉节奏与制作效率来源，不把所有作品强制为六轮。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S07",
+        "S09",
+        "S10"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S07",
+        "S09",
+        "S10"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "C03",
+      "title": "功能色块",
+      "name": "功能色块",
+      "summary": "照片体现壳体、结构、作业端分区配色，多个实例显示多种实际配色，不存在唯一黄白黑配色。3MF槽色并不等于实物照片颜色。新作按结构职责选2—3个颜色区，避免在同一零件上零碎涂色增加逐层换色。",
+      "content": "照片体现壳体、结构、作业端分区配色，多个实例显示多种实际配色，不存在唯一黄白黑配色。3MF槽色并不等于实物照片颜色。新作按结构职责选2—3个颜色区，避免在同一零件上零碎涂色增加逐层换色。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S07",
+        "S09"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S07",
+        "S09"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "C04",
+      "title": "模块与变体",
+      "name": "模块与变体",
+      "summary": "钻头、叉、挖斗、链锯为不同工具端，底/中/盖/臂/轮在源部件名中反复出现。可归纳底盘—连接/回转层—外壳—作业臂—工具分层方法；反复命名不证明跨型号几何或接口兼容。",
+      "content": "钻头、叉、挖斗、链锯为不同工具端，底/中/盖/臂/轮在源部件名中反复出现。可归纳底盘—连接/回转层—外壳—作业臂—工具分层方法；反复命名不证明跨型号几何或接口兼容。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "C05",
+      "title": "接口事实与边界",
+      "name": "接口事实与边界",
+      "summary": "207的收腰块、宽板、叉形分段臂是已观察实例；不同样本包括轴、孔、连接件。不得将用户提供的“卡扣”描述直接认定为同一种弹性锁扣。连接方式需要原网格剖面、配对尺寸与进入路径，照片不足以证明内部弹性机制或扣合寿命。",
+      "content": "207的收腰块、宽板、叉形分段臂是已观察实例；不同样本包括轴、孔、连接件。不得将用户提供的“卡扣”描述直接认定为同一种弹性锁扣。连接方式需要原网格剖面、配对尺寸与进入路径，照片不足以证明内部弹性机制或扣合寿命。",
+      "source_refs": [
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "evidence_ids": [
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "C06",
+      "title": "盘级覆盖",
+      "name": "盘级覆盖",
+      "summary": "S01—S09均明确有盘级by object覆盖，全局print_sequence却是by layer；S10单色22父对象无该盘级覆盖。对原文件看全局或数父对象都不能独自判断最终挤出顺序，必须检查实际G-code。",
+      "content": "S01—S09均明确有盘级by object覆盖，全局print_sequence却是by layer；S10单色22父对象无该盘级覆盖。对原文件看全局或数父对象都不能独自判断最终挤出顺序，必须检查实际G-code。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "C07",
+      "title": "样本工艺",
+      "name": "样本工艺",
+      "summary": "读取的10份源3MF项目值均为0.2mm、3墙、15%填充、support=0、prime_tower=1。这只是源设置，不等于全部重新切片与实物打印通过。用户要求无塔是目标适配要求，不能说源作者默认无塔。",
+      "content": "读取的10份源3MF项目值均为0.2mm、3墙、15%填充、support=0、prime_tower=1。这只是源设置，不等于全部重新切片与实物打印通过。用户要求无塔是目标适配要求，不能说源作者默认无塔。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "C08",
+      "title": "尺寸与方向",
+      "name": "尺寸与方向",
+      "summary": "原打印姿态包含局部和父组变换，应保留接口朝向；组宽高仅用于摆盘，不是装配后成品外形。STL没有单位/料槽/装配/打印设置，ZIP分件数不代表装配实例数。",
+      "content": "原打印姿态包含局部和父组变换，应保留接口朝向；组宽高仅用于摆盘，不是装配后成品外形。STL没有单位/料槽/装配/打印设置，ZIP分件数不代表装配实例数。",
+      "source_refs": [
+        "S02",
+        "S11",
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "evidence_ids": [
+        "S02",
+        "S11",
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    }
+  ],
+  "topics": [],
+  "cases": [
+    {
+      "id": "CASE-S01",
+      "title": "山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车",
+      "name": "山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车",
+      "summary": "源实例13，父组3；目标配置见evidence/S01.json。",
+      "content": "源实例13，父组3；目标配置见evidence/S01.json。",
+      "source_refs": [
+        "S01"
+      ],
+      "evidence_ids": [
+        "S01"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S02",
+      "title": "山海经机甲系列二百零七——“䑏疏”五·改型重型工程钻车",
+      "name": "山海经机甲系列二百零七——“䑏疏”五·改型重型工程钻车",
+      "summary": "源实例14，父组3；目标配置见evidence/S02.json。",
+      "content": "源实例14，父组3；目标配置见evidence/S02.json。",
+      "source_refs": [
+        "S02"
+      ],
+      "evidence_ids": [
+        "S02"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S03",
+      "title": "中国兵器系列——攻城器械——投石车",
+      "name": "中国兵器系列——攻城器械——投石车",
+      "summary": "源实例9，父组3；目标配置见evidence/S03.json。",
+      "content": "源实例9，父组3；目标配置见evidence/S03.json。",
+      "source_refs": [
+        "S03"
+      ],
+      "evidence_ids": [
+        "S03"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S04",
+      "title": "山海经机甲系列四十一——“狡”型工程装甲叉车",
+      "name": "山海经机甲系列四十一——“狡”型工程装甲叉车",
+      "summary": "源实例8，父组3；目标配置见evidence/S04.json。",
+      "content": "源实例8，父组3；目标配置见evidence/S04.json。",
+      "source_refs": [
+        "S04"
+      ],
+      "evidence_ids": [
+        "S04"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S05",
+      "title": "山海经机甲系列四十三——“蜚”型工程装甲挖掘机",
+      "name": "山海经机甲系列四十三——“蜚”型工程装甲挖掘机",
+      "summary": "源实例11，父组3；目标配置见evidence/S05.json。",
+      "content": "源实例11，父组3；目标配置见evidence/S05.json。",
+      "source_refs": [
+        "S05"
+      ],
+      "evidence_ids": [
+        "S05"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S06",
+      "title": "山海经机甲系列四十三——“蜚”型工程装甲挖掘机",
+      "name": "山海经机甲系列四十三——“蜚”型工程装甲挖掘机",
+      "summary": "源实例11，父组3；目标配置见evidence/S06.json。",
+      "content": "源实例11，父组3；目标配置见evidence/S06.json。",
+      "source_refs": [
+        "S06"
+      ],
+      "evidence_ids": [
+        "S06"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S07",
+      "title": "山海经机甲系列四十六——“从从”型武装火炮装甲车",
+      "name": "山海经机甲系列四十六——“从从”型武装火炮装甲车",
+      "summary": "源实例11，父组2；目标配置见evidence/S07.json。",
+      "content": "源实例11，父组2；目标配置见evidence/S07.json。",
+      "source_refs": [
+        "S07"
+      ],
+      "evidence_ids": [
+        "S07"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S08",
+      "title": "山海经机甲系列四十六——“从从”型武装火炮装甲车",
+      "name": "山海经机甲系列四十六——“从从”型武装火炮装甲车",
+      "summary": "源实例11，父组2；目标配置见evidence/S08.json。",
+      "content": "源实例11，父组2；目标配置见evidence/S08.json。",
+      "source_refs": [
+        "S08"
+      ],
+      "evidence_ids": [
+        "S08"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S09",
+      "title": "山海经机甲系列八十六——“驳”二型旋转工程装甲链锯车",
+      "name": "山海经机甲系列八十六——“驳”二型旋转工程装甲链锯车",
+      "summary": "源实例11，父组3；目标配置见evidence/S09.json。",
+      "content": "源实例11，父组3；目标配置见evidence/S09.json。",
+      "source_refs": [
+        "S09"
+      ],
+      "evidence_ids": [
+        "S09"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S10",
+      "title": "山海经机甲系列十二——“夫诸”型突击重火力战车",
+      "name": "山海经机甲系列十二——“夫诸”型突击重火力战车",
+      "summary": "源实例22，父组22；目标配置见evidence/S10.json。",
+      "content": "源实例22，父组22；目标配置见evidence/S10.json。",
+      "source_refs": [
+        "S10"
+      ],
+      "evidence_ids": [
+        "S10"
+      ],
+      "epistemic_status": "direct_file_fact"
+    }
+  ],
+  "methods": [
+    {
+      "id": "M01",
+      "title": "原始网格学习路径",
+      "name": "原始网格学习路径",
+      "summary": "查源哈希与署名→读取实例与变换→看成品与拆件→选择一个接口配对→剖面测量与路径检查→试打记录→生成新设计。不要看到相似结构就凭照片改成另一种关节。",
+      "content": "查源哈希与署名→读取实例与变换→看成品与拆件→选择一个接口配对→剖面测量与路径检查→试打记录→生成新设计。不要看到相似结构就凭照片改成另一种关节。",
+      "source_refs": [
+        "S02",
+        "S04",
+        "S05"
+      ],
+      "evidence_ids": [
+        "S02",
+        "S04",
+        "S05"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "M02",
+      "title": "独立新作设计路径",
+      "name": "独立新作设计路径",
+      "summary": "功能一句话→一个主要作业端→底盘/主体/关节职责→三体块轮廓→分色与拆件表→局部装甲细节→本地Blender→小样→单盘按组切片。风格借鉴保留模块语言，新几何独立设计；直接源网格复用须注明复刻。",
+      "content": "功能一句话→一个主要作业端→底盘/主体/关节职责→三体块轮廓→分色与拆件表→局部装甲细节→本地Blender→小样→单盘按组切片。风格借鉴保留模块语言，新几何独立设计；直接源网格复用须注明复刻。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "M03",
+      "title": "稳健免胶连接",
+      "name": "稳健免胶连接",
+      "summary": "定位、承力、防脱分别设计；收腰块与槽、轴与轮孔整套测量，倒角/根部圆角与壁厚需结合喷嘴和方向。卡扣间隙用同材质同朝向梯度小样验证，不从某一模型推出统一毫米标准。用户曾实物反馈断轴/卡扣脆弱，不能用网格封闭覆盖失败。",
+      "content": "定位、承力、防脱分别设计；收腰块与槽、轴与轮孔整套测量，倒角/根部圆角与壁厚需结合喷嘴和方向。卡扣间隙用同材质同朝向梯度小样验证，不从某一模型推出统一毫米标准。用户曾实物反馈断轴/卡扣脆弱，不能用网格封闭覆盖失败。",
+      "source_refs": [
+        "S02"
+      ],
+      "evidence_ids": [
+        "S02"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    }
+  ],
+  "diagnostics": [
+    {
+      "id": "D01",
+      "title": "像方盒积木却没有工程感",
+      "name": "像方盒积木却没有工程感",
+      "summary": "检查作业端是否有清晰轴线与活动职责，主体/轮组/作业端比例是否形成主次，装甲是否围绕功能而非填满表面。",
+      "content": "检查作业端是否有清晰轴线与活动职责，主体/轮组/作业端比例是否形成主次，装甲是否围绕功能而非填满表面。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "D02",
+      "title": "不能组装或卡扣断裂",
+      "name": "不能组装或卡扣断裂",
+      "summary": "核对配对、进入方向、路径障碍、挡边、缩放、Z方向弱面与打印精度；先小样定位原因，不先要求胶水或蛮力。",
+      "content": "核对配对、进入方向、路径障碍、挡边、缩放、Z方向弱面与打印精度；先小样定位原因，不先要求胶水或蛮力。",
+      "source_refs": [
+        "S02"
+      ],
+      "evidence_ids": [
+        "S02"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "D03",
+      "title": "换色频繁或有碰撞",
+      "name": "换色频繁或有碰撞",
+      "summary": "核对同色父组、盘级by object、实际G-code连续性、原厂避让、最后一组规则和塔；不能通过降避让数值消除警告。",
+      "content": "核对同色父组、盘级by object、实际G-code连续性、原厂避让、最后一组规则和塔；不能通过降避让数值消除警告。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S07"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S07"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    }
+  ],
+  "workflows": [
+    {
+      "id": "M01",
+      "title": "原始网格学习路径",
+      "name": "原始网格学习路径",
+      "summary": "查源哈希与署名→读取实例与变换→看成品与拆件→选择一个接口配对→剖面测量与路径检查→试打记录→生成新设计。不要看到相似结构就凭照片改成另一种关节。",
+      "content": "查源哈希与署名→读取实例与变换→看成品与拆件→选择一个接口配对→剖面测量与路径检查→试打记录→生成新设计。不要看到相似结构就凭照片改成另一种关节。",
+      "source_refs": [
+        "S02",
+        "S04",
+        "S05"
+      ],
+      "evidence_ids": [
+        "S02",
+        "S04",
+        "S05"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "M02",
+      "title": "独立新作设计路径",
+      "name": "独立新作设计路径",
+      "summary": "功能一句话→一个主要作业端→底盘/主体/关节职责→三体块轮廓→分色与拆件表→局部装甲细节→本地Blender→小样→单盘按组切片。风格借鉴保留模块语言，新几何独立设计；直接源网格复用须注明复刻。",
+      "content": "功能一句话→一个主要作业端→底盘/主体/关节职责→三体块轮廓→分色与拆件表→局部装甲细节→本地Blender→小样→单盘按组切片。风格借鉴保留模块语言，新几何独立设计；直接源网格复用须注明复刻。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "M03",
+      "title": "稳健免胶连接",
+      "name": "稳健免胶连接",
+      "summary": "定位、承力、防脱分别设计；收腰块与槽、轴与轮孔整套测量，倒角/根部圆角与壁厚需结合喷嘴和方向。卡扣间隙用同材质同朝向梯度小样验证，不从某一模型推出统一毫米标准。用户曾实物反馈断轴/卡扣脆弱，不能用网格封闭覆盖失败。",
+      "content": "定位、承力、防脱分别设计；收腰块与槽、轴与轮孔整套测量，倒角/根部圆角与壁厚需结合喷嘴和方向。卡扣间隙用同材质同朝向梯度小样验证，不从某一模型推出统一毫米标准。用户曾实物反馈断轴/卡扣脆弱，不能用网格封闭覆盖失败。",
+      "source_refs": [
+        "S02"
+      ],
+      "evidence_ids": [
+        "S02"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    }
+  ],
+  "rubrics": [
+    {
+      "id": "R01",
+      "title": "交付验收",
+      "name": "交付验收",
+      "summary": "轮廓与作业方向清楚；模块职责与分色相符；接口配对表齐全；网格与贴板检查通过；路径/实物状态如实；目标原厂机型重新切片；G-code真实分组；3MF重开设置；归档来源及版本。外观得分不能抵消无法装配。",
+      "content": "轮廓与作业方向清楚；模块职责与分色相符；接口配对表齐全；网格与贴板检查通过；路径/实物状态如实；目标原厂机型重新切片；G-code真实分组；3MF重开设置；归档来源及版本。外观得分不能抵消无法装配。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    }
+  ],
+  "templates": [],
+  "transfer_rules": [
+    {
+      "id": "T01",
+      "title": "风格可迁移，接口兼容不可默认",
+      "name": "风格可迁移，接口兼容不可默认",
+      "summary": "迁移体块/装甲层次/功能配色/模块职责；每个新接口重新验证尺寸/路径/强度，禁止将两个同名零件视为通用接口。",
+      "content": "迁移体块/装甲层次/功能配色/模块职责；每个新接口重新验证尺寸/路径/强度，禁止将两个同名零件视为通用接口。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    }
+  ],
+  "failure_modes": [
+    {
+      "id": "D01",
+      "title": "像方盒积木却没有工程感",
+      "name": "像方盒积木却没有工程感",
+      "summary": "检查作业端是否有清晰轴线与活动职责，主体/轮组/作业端比例是否形成主次，装甲是否围绕功能而非填满表面。",
+      "content": "检查作业端是否有清晰轴线与活动职责，主体/轮组/作业端比例是否形成主次，装甲是否围绕功能而非填满表面。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "D02",
+      "title": "不能组装或卡扣断裂",
+      "name": "不能组装或卡扣断裂",
+      "summary": "核对配对、进入方向、路径障碍、挡边、缩放、Z方向弱面与打印精度；先小样定位原因，不先要求胶水或蛮力。",
+      "content": "核对配对、进入方向、路径障碍、挡边、缩放、Z方向弱面与打印精度；先小样定位原因，不先要求胶水或蛮力。",
+      "source_refs": [
+        "S02"
+      ],
+      "evidence_ids": [
+        "S02"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    },
+    {
+      "id": "D03",
+      "title": "换色频繁或有碰撞",
+      "name": "换色频繁或有碰撞",
+      "summary": "核对同色父组、盘级by object、实际G-code连续性、原厂避让、最后一组规则和塔；不能通过降避让数值消除警告。",
+      "content": "核对同色父组、盘级by object、实际G-code连续性、原厂避让、最后一组规则和塔；不能通过降避让数值消除警告。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S07"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S07"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    }
+  ],
+  "learning_checks": [],
+  "quotes": [],
+  "evidence": [
+    {
+      "id": "S01",
+      "source_ref": "S01",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\156、A1mini一体多色 (1).3mf",
+      "sha256": "28c394ecc722bbb56bef422b233e6a2e76aed5e286109352e881aae51868988c",
+      "path": "evidence/S01.json",
+      "type": "original-3mf-analysis"
+    },
+    {
+      "id": "S02",
+      "source_ref": "S02",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\207、一体多色.3mf",
+      "sha256": "435ebd946506bc0ffed585b6a087752cf48f7b28f80948779430d901d9c1bceb",
+      "path": "evidence/S02.json",
+      "type": "original-3mf-analysis"
+    },
+    {
+      "id": "S03",
+      "source_ref": "S03",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\3、抛石机——A1mini一体多色 (1).3mf",
+      "sha256": "d75058cb33f6eb1d2c5321c96225d22845ca33d7c7e4ee63222369c7687398c3",
+      "path": "evidence/S03.json",
+      "type": "original-3mf-analysis"
+    },
+    {
+      "id": "S04",
+      "source_ref": "S04",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\41-2、狡一体多色.3mf",
+      "sha256": "78a370112d47aebc87d5597849df33f0b101a5826f24df3af4e717113c80ba4f",
+      "path": "evidence/S04.json",
+      "type": "original-3mf-analysis"
+    },
+    {
+      "id": "S05",
+      "source_ref": "S05",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\43、a1MINI一体多色.3mf",
+      "sha256": "d0d2eccf833564557113553ab1f975351d63eebdd18845e229f63a4f12ce2f67",
+      "path": "evidence/S05.json",
+      "type": "original-3mf-analysis"
+    },
+    {
+      "id": "S06",
+      "source_ref": "S06",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\43、一体多色 (1).3mf",
+      "sha256": "386738ae425dc21a74c309ad3c86b8a1291367cb894ec53a52aa36153f32f527",
+      "path": "evidence/S06.json",
+      "type": "original-3mf-analysis"
+    },
+    {
+      "id": "S07",
+      "source_ref": "S07",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\46、从从A1mini一体多色.3mf",
+      "sha256": "dcb5e8a260d958590142bd2e29b2523a5585e13956c4257282cf01e328f83e0c",
+      "path": "evidence/S07.json",
+      "type": "original-3mf-analysis"
+    },
+    {
+      "id": "S08",
+      "source_ref": "S08",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\46、从从一体多色 (1).3mf",
+      "sha256": "87fd4cb4863ce92ab3746d9f9a4c0d1d808a7f9286c66da61c7805c9bf2ddc6d",
+      "path": "evidence/S08.json",
+      "type": "original-3mf-analysis"
+    },
+    {
+      "id": "S09",
+      "source_ref": "S09",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\86、A1mini一体多色.3mf",
+      "sha256": "cf4021c0e8f32fd45e0a631b02fb87c6f0da5a3a16e736e79da4f4c056a1329d",
+      "path": "evidence/S09.json",
+      "type": "original-3mf-analysis"
+    },
+    {
+      "id": "S10",
+      "source_ref": "S10",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\A1mini夫诸单色.3mf",
+      "sha256": "d34622ed9ffdd5864aca4b18098cd8a7fb881f3840d63d3011783486734cfecf",
+      "path": "evidence/S10.json",
+      "type": "original-3mf-analysis"
+    },
+    {
+      "id": "S11",
+      "source_ref": "S11",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百三十二——“䑏疏”五型重型钻山工程车 (1).zip",
+      "sha256": "c9d695ce277c50b1cc35a820c7ef9a2e2b62a0fe154ea31a1c5e4df1600a562c",
+      "path": "evidence/S11.json",
+      "type": "stl-archive-or-part-analysis"
+    },
+    {
+      "id": "S12",
+      "source_ref": "S12",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十七——“驳”四型旋转侧壁工程锯齿车.zip",
+      "sha256": "bba9a5c79b8afa216e5956ddd07e06db1905c68dc621abfae85f820592d6f2a9",
+      "path": "evidence/S12.json",
+      "type": "stl-archive-or-part-analysis"
+    },
+    {
+      "id": "S13",
+      "source_ref": "S13",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十五——“双双”六型旋转侧壁工程抓料车 (1).zip",
+      "sha256": "8e7c668698f5af58f9035be0a85d82fbe0a47e957d0ad79ce4067f69a8646807",
+      "path": "evidence/S13.json",
+      "type": "stl-archive-or-part-analysis"
+    },
+    {
+      "id": "S14",
+      "source_ref": "S14",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车.zip",
+      "sha256": "fe4b8cf5258b5dec30574608ba845b3691312ec7233ac4bcf2a44cc3a0a3622f",
+      "path": "evidence/S14.json",
+      "type": "stl-archive-or-part-analysis"
+    },
+    {
+      "id": "S15",
+      "source_ref": "S15",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\底.stl",
+      "sha256": "8674c48c471466b14cd05f0588ac78c174e921f2fe5f1db3d44b379e5e73c145",
+      "path": "evidence/S15.json",
+      "type": "stl-archive-or-part-analysis"
+    },
+    {
+      "id": "S16",
+      "source_ref": "S16",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\机械臂1.stl",
+      "sha256": "f4ac1a54b5c55c4a3dc303aea6c05e7fd8c23be4cdb3a7f0fa38510ee817406b",
+      "path": "evidence/S16.json",
+      "type": "stl-archive-or-part-analysis"
+    },
+    {
+      "id": "S17",
+      "source_ref": "S17",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\机械臂2.stl",
+      "sha256": "583318885e9bd4ddbf3063c03b5b9de33e3dbc1b44c28ca20e76d90dc72645a6",
+      "path": "evidence/S17.json",
+      "type": "stl-archive-or-part-analysis"
+    },
+    {
+      "id": "S18",
+      "source_ref": "S18",
+      "source_path": "D:\\AI3D建模\\公羽机甲\\黑.stl",
+      "sha256": "eb655ccbcdbee90938c90e8767597df0cb527a40d0735f48f1d8fef7e70b9967",
+      "path": "evidence/S18.json",
+      "type": "stl-archive-or-part-analysis"
+    }
+  ],
+  "study_paths": [],
+  "boundaries": [
+    {
+      "id": "B01",
+      "title": "本次验证范围",
+      "name": "本次验证范围",
+      "summary": "10份3MF真实层级/网格/设置提取，4份ZIP的32个STL条目及4份独立STL分析，成品照片人工视觉归纳；没有全库本机试打、全库装配路径仿真或跨型号互换试验。不是权重微调，不是原作者官方技能。",
+      "content": "10份3MF真实层级/网格/设置提取，4份ZIP的32个STL条目及4份独立STL分析，成品照片人工视觉归纳；没有全库本机试打、全库装配路径仿真或跨型号互换试验。不是权重微调，不是原作者官方技能。",
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "epistemic_status": "source_grounded_synthesis"
+    }
+  ],
+  "quality": {
+    "physical_fit_verified": false,
+    "assembly_paths_simulated": false,
+    "visual_sources": "embedded author photos; no raw audio/video courses",
+    "duplicate_policy": "SHA256 content dedup; model variants retained, not independent design claims"
+  }
+}

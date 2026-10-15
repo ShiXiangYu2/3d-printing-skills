@@ -1,0 +1,12 @@
+{
+  "positive_case_passed": true,
+  "negative_cases_rejected": [
+    "collision",
+    "physical",
+    "retention",
+    "topology",
+    "missing",
+    "unknown_static"
+  ],
+  "limitations": "No rerun of modeling; validates captured case evidence and instruction/format integrity"
+}

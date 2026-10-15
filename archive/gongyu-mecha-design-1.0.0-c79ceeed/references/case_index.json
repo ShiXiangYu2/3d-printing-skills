@@ -1,0 +1,154 @@
+{
+  "cases": [
+    {
+      "id": "CASE-S01",
+      "title": "山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车",
+      "name": "山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车",
+      "summary": "源实例13，父组3；目标配置见evidence/S01.json。",
+      "content": "源实例13，父组3；目标配置见evidence/S01.json。",
+      "source_refs": [
+        "S01"
+      ],
+      "evidence_ids": [
+        "S01"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S02",
+      "title": "山海经机甲系列二百零七——“䑏疏”五·改型重型工程钻车",
+      "name": "山海经机甲系列二百零七——“䑏疏”五·改型重型工程钻车",
+      "summary": "源实例14，父组3；目标配置见evidence/S02.json。",
+      "content": "源实例14，父组3；目标配置见evidence/S02.json。",
+      "source_refs": [
+        "S02"
+      ],
+      "evidence_ids": [
+        "S02"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S03",
+      "title": "中国兵器系列——攻城器械——投石车",
+      "name": "中国兵器系列——攻城器械——投石车",
+      "summary": "源实例9，父组3；目标配置见evidence/S03.json。",
+      "content": "源实例9，父组3；目标配置见evidence/S03.json。",
+      "source_refs": [
+        "S03"
+      ],
+      "evidence_ids": [
+        "S03"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S04",
+      "title": "山海经机甲系列四十一——“狡”型工程装甲叉车",
+      "name": "山海经机甲系列四十一——“狡”型工程装甲叉车",
+      "summary": "源实例8，父组3；目标配置见evidence/S04.json。",
+      "content": "源实例8，父组3；目标配置见evidence/S04.json。",
+      "source_refs": [
+        "S04"
+      ],
+      "evidence_ids": [
+        "S04"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S05",
+      "title": "山海经机甲系列四十三——“蜚”型工程装甲挖掘机",
+      "name": "山海经机甲系列四十三——“蜚”型工程装甲挖掘机",
+      "summary": "源实例11，父组3；目标配置见evidence/S05.json。",
+      "content": "源实例11，父组3；目标配置见evidence/S05.json。",
+      "source_refs": [
+        "S05"
+      ],
+      "evidence_ids": [
+        "S05"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S06",
+      "title": "山海经机甲系列四十三——“蜚”型工程装甲挖掘机",
+      "name": "山海经机甲系列四十三——“蜚”型工程装甲挖掘机",
+      "summary": "源实例11，父组3；目标配置见evidence/S06.json。",
+      "content": "源实例11，父组3；目标配置见evidence/S06.json。",
+      "source_refs": [
+        "S06"
+      ],
+      "evidence_ids": [
+        "S06"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S07",
+      "title": "山海经机甲系列四十六——“从从”型武装火炮装甲车",
+      "name": "山海经机甲系列四十六——“从从”型武装火炮装甲车",
+      "summary": "源实例11，父组2；目标配置见evidence/S07.json。",
+      "content": "源实例11，父组2；目标配置见evidence/S07.json。",
+      "source_refs": [
+        "S07"
+      ],
+      "evidence_ids": [
+        "S07"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S08",
+      "title": "山海经机甲系列四十六——“从从”型武装火炮装甲车",
+      "name": "山海经机甲系列四十六——“从从”型武装火炮装甲车",
+      "summary": "源实例11，父组2；目标配置见evidence/S08.json。",
+      "content": "源实例11，父组2；目标配置见evidence/S08.json。",
+      "source_refs": [
+        "S08"
+      ],
+      "evidence_ids": [
+        "S08"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S09",
+      "title": "山海经机甲系列八十六——“驳”二型旋转工程装甲链锯车",
+      "name": "山海经机甲系列八十六——“驳”二型旋转工程装甲链锯车",
+      "summary": "源实例11，父组3；目标配置见evidence/S09.json。",
+      "content": "源实例11，父组3；目标配置见evidence/S09.json。",
+      "source_refs": [
+        "S09"
+      ],
+      "evidence_ids": [
+        "S09"
+      ],
+      "epistemic_status": "direct_file_fact"
+    },
+    {
+      "id": "CASE-S10",
+      "title": "山海经机甲系列十二——“夫诸”型突击重火力战车",
+      "name": "山海经机甲系列十二——“夫诸”型突击重火力战车",
+      "summary": "源实例22，父组22；目标配置见evidence/S10.json。",
+      "content": "源实例22，父组22；目标配置见evidence/S10.json。",
+      "source_refs": [
+        "S10"
+      ],
+      "evidence_ids": [
+        "S10"
+      ],
+      "epistemic_status": "direct_file_fact"
+    }
+  ],
+  "variants_not_independent_designs": [
+    [
+      "S05",
+      "S06"
+    ],
+    [
+      "S07",
+      "S08"
+    ]
+  ]
+}

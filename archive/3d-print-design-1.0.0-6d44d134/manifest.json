@@ -1,0 +1,51 @@
+{
+  "name": "3d-print-design",
+  "version": "1.0.1",
+  "status": "validated_candidate",
+  "require_human_approval": true,
+  "recursive_deletion": false,
+  "network_downloads": false,
+  "origin": "User requirements and verified local implementation; no standalone upstream release feed",
+  "sources": [
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\mecha-forklift-a1mini-v4\\build_mini.py",
+      "sha256": "51b2b10d72269194960b23e02e9f8196e65aa803963fe0edd957cabf1e514438",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\mecha-forklift-a1mini-v4\\verify_publish.py",
+      "sha256": "a23003667f4daaeee3f17e2fa093d88be1284c1e6898c10bc9c52e71cf752c9d",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\skills\\skill-manager\\SKILL.md",
+      "sha256": "adbc41dbd367dbc5cc67a7499f75123563238dd41e495b2d7a0d640c9a6da6fe",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Program Files\\Bambu Studio\\resources\\profiles\\BBL\\machine\\Bambu Lab A1 mini 0.4 nozzle.json",
+      "sha256": "1b028c1c4df4ef075571dab8597b54c6c9f32b1b914b3ca271f4ae38805ff6af",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\build.py",
+      "sha256": "1accab2228230b6cc8e2652b1de0cba7970c7b15e4dac98cc3e9e05fa4205f26",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\audit_trial.py",
+      "sha256": "dae8b6a93e302d7794aa491c4784736217c02d62ae95adbb7cb4af0fcc632e76",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\publish.py",
+      "sha256": "abac44e1cba112b78fc50e7523cf756cc360596b3340a5f2b27f91de148f8038",
+      "kind": "local-source"
+    }
+  ],
+  "validation_evidence": [
+    "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\delivery.json",
+    "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\trial-topology.json.tmp",
+    "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\assembly_audit.json.tmp"
+  ]
+}

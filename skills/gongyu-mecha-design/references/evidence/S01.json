@@ -1,0 +1,1004 @@
+{
+  "id": "S01",
+  "source_sha256": "28c394ecc722bbb56bef422b233e6a2e76aed5e286109352e881aae51868988c",
+  "source_path": "D:\\AI3D建模\\公羽机甲\\156、A1mini一体多色 (1).3mf",
+  "unit": "millimeter",
+  "metadata": {
+    "Application": "BambuStudio-02.02.01.60",
+    "BambuStudio:3mfVersion": "1",
+    "Copyright": null,
+    "CreationDate": "2025-09-28",
+    "Description": "&lt;h2&gt;公羽机甲出品&lt;/h2&gt;&lt;h2&gt;山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车&lt;/h2&gt;&lt;boostme&gt;&lt;boosttitle&gt;为我助力&lt;/boosttitle&gt;&lt;boostcontent&gt;感谢每一位助力的小伙伴，谢谢！&lt;/boostcontent&gt;&lt;/boostme&gt;&lt;p&gt;&lt;strong&gt;公羽机甲作品：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;八卦机甲&lt;/strong&gt;（以各省份名山大川为原型，巢湖、骊山、八达岭、纳木错等）；&lt;/p&gt;&lt;p&gt;&lt;strong&gt;神话机甲&lt;/strong&gt;（以神话人物为原型，孙悟空、杨戬、牛魔王等）；&lt;/p&gt;&lt;p&gt;&lt;strong&gt;山海经系列&lt;/strong&gt;（生物形态系列，机械形态系列，战机系列，飞行器系列，战舰系列，战车系列，主战坦克系列，多功能工程装甲车系列，旋转工程装甲车系列，工程装甲货车系列，军用装甲火车系列等等。）；&lt;/p&gt;&lt;p&gt;&lt;strong&gt;中国兵器系列&lt;/strong&gt;（攻城器械、守城器械、野战器械）；&lt;/p&gt;&lt;p&gt;&lt;strong&gt;机械虫甲系列&lt;/strong&gt;（双叉犀金龟（独角仙）机械形态和虫甲形态、长戟大兜虫机械形态和虫甲形态。。。）；&lt;/p&gt;&lt;p&gt;&lt;strong&gt;机甲山海经系列&lt;/strong&gt;（旋龟机甲。。。）&lt;/p&gt;&lt;p&gt;&lt;strong&gt;机甲恐龙系列&lt;/strong&gt;（机甲剑龙、机甲三角龙、机甲棘龙、机甲霸王龙、机甲泰坦龙、机甲沧龙。。。）&lt;/p&gt;&lt;p&gt;&lt;strong&gt;伸缩剑系列&lt;/strong&gt;（饕餮汉剑、饕餮短剑、回纹伸缩锏、八卦伸缩锏。。。）&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;此款为简易旋转工程车的&lt;strong&gt;第二款&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;第一款是：&lt;strong&gt;155“双双”六型旋转侧壁工程抓料车&lt;/strong&gt;，&lt;a target=&#34;_blank&#34; rel=&#34;noopener noreferrer ugc&#34; href=&#34;https://makerworld.com.cn/zh/models/1627221-shan-hai-jing-ji-jia-xi-lie-yi-bai-wu-shi-wu-shuan#profileId-1781972&#34;&gt;&lt;strong&gt;https://makerworld.com.cn/zh/models/1627221-shan-hai-jing-ji-jia-xi-lie-yi-bai-wu-shi-wu-shuan#profileId-1781972&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h2&gt;&lt;span style=&#34;color: #E14747&#34;&gt;简单、好打、易装、不易失败、不易摔坏！&lt;/span&gt;&lt;/h2&gt;&lt;h2&gt;&lt;span style=&#34;color: #E14747&#34;&gt;注：1、手按不动的话可以打印主页的工具锤，对准卡扣轻轻敲进去就行&lt;/span&gt;&lt;/h2&gt;&lt;h2&gt;&lt;span style=&#34;color: #E14747&#34;&gt;        2、最好在打印板上涂胶水或者喷喷雾防止打印失败，炒面的最主要原因就是打印版太光滑&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;打印不用支撑（如果底板不粘可以自己加裙边），组装不需要胶水和五金件（如果偏紧就用力按压或者用小锤轻轻敲打），非常方便的中国风拼装模型！&lt;/p&gt;&lt;h2&gt;䑏疏（quan shu）：&lt;/h2&gt;&lt;p&gt;&lt;span style=&#34;background-color: rgb(255,255,255); color: rgb(51,51,51); font-size: 16px&#34;&gt;生活在带山，形状像马，长着一只带有螺纹的角，可以辟火。&lt;/span&gt;&lt;br&gt;&lt;span style=&#34;background-color: rgb(255,255,255); color: rgb(51,51,51); font-size: 16px&#34;&gt;又北三百里，曰带山，其上多玉，其下多青碧。有兽焉，其状如马，一角有错，其名䑏疏，可以辟火。————《山海经·西山经》&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;拼装示意：&lt;/h2&gt;&lt;figure class=&#34;image&#34;&gt;&lt;img src=&#34;https://makerworld.bblmw.cn/makerworld/model/DSM00000001638886/design/2025-10-03_efd601f4d18c48.png&#34;&gt;&lt;/figure&gt;&lt;figure class=&#34;image&#34;&gt;&lt;img src=&#34;https://makerworld.bblmw.cn/makerworld/model/DSM00000001638886/design/2025-10-03_2929966647fd38.png&#34;&gt;&lt;/figure&gt;&lt;figure class=&#34;image&#34;&gt;&lt;img src=&#34;https://makerworld.bblmw.cn/makerworld/model/DSM00000001638886/design/2025-10-03_7703fd3aa20c.png&#34;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+    "Designer": "公羽机甲",
+    "DesignerCover": "2025-10-03_791e5fd4153038.png",
+    "DesignerUserId": "3946080816",
+    "License": "Standard Digital File License",
+    "ModificationDate": "2025-09-28",
+    "Origin": "profile",
+    "Thumbnail_Middle": "/Metadata/plate_1.png",
+    "Thumbnail_Small": "/Metadata/plate_1_small.png",
+    "Title": "山海经机甲系列一百五十六——“䑏疏”六型旋转侧壁钻山工程车",
+    "CopyRight": "[]",
+    "ProfileTitle": "156、A1mini一体多色（无AMS也可单色打印）——0.2mm 层高, 3 层墙, 15% 填充",
+    "ProfileCover": "2025-10-04_b75cd25bf958a.png",
+    "ProfileUserId": "3946080816",
+    "ProfileUserName": "公羽机甲",
+    "DesignRegion": "CN",
+    "DesignModelId": "CN1b0a1758be539f",
+    "DesignProfileId": "84771169"
+  },
+  "instances": [
+    {
+      "group": "2",
+      "object_id": "1",
+      "resource": "3D/Objects/object_360.model",
+      "name": "上盖.stl",
+      "transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          33.6828117
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          40.2637562
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          8.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          20.682811700000002,
+          25.263756200000003,
+          0.0
+        ],
+        [
+          46.6828117,
+          55.2637562,
+          17.5
+        ]
+      ],
+      "world_size": [
+        26.0,
+        30.0,
+        17.5
+      ],
+      "mesh": {
+        "vertices": 917,
+        "triangles": 1826,
+        "bounds": [
+          [
+            -13.0,
+            -15.0,
+            -8.75
+          ],
+          [
+            13.0,
+            15.0,
+            8.75
+          ]
+        ],
+        "size": [
+          26.0,
+          30.0,
+          17.5
+        ],
+        "signed_volume": 6382.250216698506,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "11",
+      "object_id": "3",
+      "resource": "3D/Objects/object_363.model",
+      "name": "轮子.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          156.23843879999998
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          42.72679247603065
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          4.49999905
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          149.73843879999998,
+          36.22679247603065,
+          -8.881784197001252e-16
+        ],
+        [
+          162.73843879999998,
+          49.22679247603065,
+          8.9999981
+        ]
+      ],
+      "world_size": [
+        13.0,
+        13.0,
+        8.9999981
+      ],
+      "mesh": {
+        "vertices": 1152,
+        "triangles": 2300,
+        "bounds": [
+          [
+            -4.49999905,
+            -6.5,
+            -6.5
+          ],
+          [
+            4.49999905,
+            6.5,
+            6.5
+          ]
+        ],
+        "size": [
+          8.9999981,
+          13.0,
+          13.0
+        ],
+        "signed_volume": 857.6207062336383,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "11",
+      "object_id": "4",
+      "resource": "3D/Objects/object_363.model",
+      "name": "轮子.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          156.2384349
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          56.7267932
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          4.49999905
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          149.7384349,
+          50.2267932,
+          -8.881784197001252e-16
+        ],
+        [
+          162.7384349,
+          63.2267932,
+          8.9999981
+        ]
+      ],
+      "world_size": [
+        13.0,
+        13.0,
+        8.9999981
+      ],
+      "mesh": {
+        "vertices": 1152,
+        "triangles": 2300,
+        "bounds": [
+          [
+            -4.49999905,
+            -6.5,
+            -6.5
+          ],
+          [
+            4.49999905,
+            6.5,
+            6.5
+          ]
+        ],
+        "size": [
+          8.9999981,
+          13.0,
+          13.0
+        ],
+        "signed_volume": 857.6207062336383,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "11",
+      "object_id": "5",
+      "resource": "3D/Objects/object_363.model",
+      "name": "轮子.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          156.2384349
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          28.726793200000003
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          4.49999905
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          149.7384349,
+          22.226793200000003,
+          -8.881784197001252e-16
+        ],
+        [
+          162.7384349,
+          35.2267932,
+          8.9999981
+        ]
+      ],
+      "world_size": [
+        13.0,
+        13.0,
+        8.9999981
+      ],
+      "mesh": {
+        "vertices": 1152,
+        "triangles": 2300,
+        "bounds": [
+          [
+            -4.49999905,
+            -6.5,
+            -6.5
+          ],
+          [
+            4.49999905,
+            6.5,
+            6.5
+          ]
+        ],
+        "size": [
+          8.9999981,
+          13.0,
+          13.0
+        ],
+        "signed_volume": 857.6207062336383,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "11",
+      "object_id": "6",
+      "resource": "3D/Objects/object_363.model",
+      "name": "轮子.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          142.238434964
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          42.7267932
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          4.49999905
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          135.738434964,
+          36.2267932,
+          -8.881784197001252e-16
+        ],
+        [
+          148.738434964,
+          49.2267932,
+          8.9999981
+        ]
+      ],
+      "world_size": [
+        13.0,
+        13.0,
+        8.9999981
+      ],
+      "mesh": {
+        "vertices": 1152,
+        "triangles": 2300,
+        "bounds": [
+          [
+            -4.49999905,
+            -6.5,
+            -6.5
+          ],
+          [
+            4.49999905,
+            6.5,
+            6.5
+          ]
+        ],
+        "size": [
+          8.9999981,
+          13.0,
+          13.0
+        ],
+        "signed_volume": 857.6207062336383,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "11",
+      "object_id": "7",
+      "resource": "3D/Objects/object_363.model",
+      "name": "轮子.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          142.238434964
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          28.726793200000003
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          4.49999905
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          135.738434964,
+          22.226793200000003,
+          -8.881784197001252e-16
+        ],
+        [
+          148.738434964,
+          35.2267932,
+          8.9999981
+        ]
+      ],
+      "world_size": [
+        13.0,
+        13.0,
+        8.9999981
+      ],
+      "mesh": {
+        "vertices": 1152,
+        "triangles": 2300,
+        "bounds": [
+          [
+            -4.49999905,
+            -6.5,
+            -6.5
+          ],
+          [
+            4.49999905,
+            6.5,
+            6.5
+          ]
+        ],
+        "size": [
+          8.9999981,
+          13.0,
+          13.0
+        ],
+        "signed_volume": 857.6207062336383,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "11",
+      "object_id": "8",
+      "resource": "3D/Objects/object_363.model",
+      "name": "轮子.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          142.238434964
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          56.7267932
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          4.49999905
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          135.738434964,
+          50.2267932,
+          -8.881784197001252e-16
+        ],
+        [
+          148.738434964,
+          63.2267932,
+          8.9999981
+        ]
+      ],
+      "world_size": [
+        13.0,
+        13.0,
+        8.9999981
+      ],
+      "mesh": {
+        "vertices": 1152,
+        "triangles": 2300,
+        "bounds": [
+          [
+            -4.49999905,
+            -6.5,
+            -6.5
+          ],
+          [
+            4.49999905,
+            6.5,
+            6.5
+          ]
+        ],
+        "size": [
+          8.9999981,
+          13.0,
+          13.0
+        ],
+        "signed_volume": 857.6207062336383,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "11",
+      "object_id": "9",
+      "resource": "3D/Objects/object_363.model",
+      "name": "黑.stl",
+      "transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          127.71416669999999
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          43.872671700000005
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          5.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          122.01416689,
+          37.922674750000006,
+          0.0
+        ],
+        [
+          133.41416651,
+          49.822668650000004,
+          10.0
+        ]
+      ],
+      "world_size": [
+        11.399999620000003,
+        11.899993899999998,
+        10.0
+      ],
+      "mesh": {
+        "vertices": 28,
+        "triangles": 44,
+        "bounds": [
+          [
+            -5.69999981,
+            -5.94999695,
+            -5.0
+          ],
+          [
+            5.69999981,
+            5.94999695,
+            5.0
+          ]
+        ],
+        "size": [
+          11.39999962,
+          11.8999939,
+          10.0
+        ],
+        "signed_volume": 918.7715932163197,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "11",
+      "object_id": "10",
+      "resource": "3D/Objects/object_363.model",
+      "name": "钻头.stl",
+      "transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          127.8080921
+        ],
+        [
+          0.0,
+          -2.22044605e-16,
+          1.0,
+          28.779929600000003
+        ],
+        [
+          0.0,
+          -1.0,
+          -2.22044605e-16,
+          10.350006100000002
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          121.38847922,
+          22.36031385,
+          0.0
+        ],
+        [
+          134.22770498,
+          35.19954535,
+          20.700012200000003
+        ]
+      ],
+      "world_size": [
+        12.839225760000005,
+        12.8392315,
+        20.700012200000003
+      ],
+      "mesh": {
+        "vertices": 2711,
+        "triangles": 5418,
+        "bounds": [
+          [
+            -6.41961288,
+            -10.3500061,
+            -6.41961575
+          ],
+          [
+            6.41961288,
+            10.3500061,
+            6.41961575
+          ]
+        ],
+        "size": [
+          12.83922576,
+          20.7000122,
+          12.8392315
+        ],
+        "signed_volume": 921.6732274109667,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "16",
+      "object_id": "12",
+      "resource": "3D/Objects/object_366.model",
+      "name": "机械臂1.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          -1.0,
+          91.90179623
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          150.36081958
+        ],
+        [
+          1.0,
+          0.0,
+          -2.22044605e-16,
+          2.4994907399999997
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          86.90179623,
+          136.86081958,
+          0.0
+        ],
+        [
+          96.90179623,
+          163.86081958,
+          4.99898148
+        ]
+      ],
+      "world_size": [
+        10.0,
+        27.0,
+        4.99898148
+      ],
+      "mesh": {
+        "vertices": 1336,
+        "triangles": 2668,
+        "bounds": [
+          [
+            -2.49949074,
+            -13.5,
+            -5.0
+          ],
+          [
+            2.49949074,
+            13.5,
+            5.0
+          ]
+        ],
+        "size": [
+          4.99898148,
+          27.0,
+          10.0
+        ],
+        "signed_volume": 701.5936655774849,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "16",
+      "object_id": "13",
+      "resource": "3D/Objects/object_366.model",
+      "name": "机械臂2.stl",
+      "transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          115.16922120000001
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          153.22206683
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.50000191
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          110.83591203,
+          143.72206683,
+          0.0
+        ],
+        [
+          119.50253037000002,
+          162.72206683,
+          7.00000382
+        ]
+      ],
+      "world_size": [
+        8.666618340000014,
+        19.0,
+        7.00000382
+      ],
+      "mesh": {
+        "vertices": 1102,
+        "triangles": 2208,
+        "bounds": [
+          [
+            -4.33330917,
+            -9.5,
+            -3.50000191
+          ],
+          [
+            4.33330917,
+            9.5,
+            3.50000191
+          ]
+        ],
+        "size": [
+          8.66661834,
+          19.0,
+          7.00000382
+        ],
+        "signed_volume": 692.7110533419855,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "16",
+      "object_id": "14",
+      "resource": "3D/Objects/object_366.model",
+      "name": "机械臂3.stl",
+      "transform": [
+        [
+          -2.22044605e-16,
+          0.0,
+          1.0,
+          103.9350617
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          154.60286053
+        ],
+        [
+          -1.0,
+          0.0,
+          -2.22044605e-16,
+          2.50040818
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          98.9350617,
+          146.31251629,
+          9.99999949513608e-09
+        ],
+        [
+          108.9350617,
+          162.89320476999998,
+          5.000816350000001
+        ]
+      ],
+      "world_size": [
+        10.0,
+        16.580688479999992,
+        5.000816340000002
+      ],
+      "mesh": {
+        "vertices": 1078,
+        "triangles": 2144,
+        "bounds": [
+          [
+            -2.50040817,
+            -8.29034424,
+            -5.0
+          ],
+          [
+            2.50040817,
+            8.29034424,
+            5.0
+          ]
+        ],
+        "size": [
+          5.00081634,
+          16.58068848,
+          10.0
+        ],
+        "signed_volume": 400.9002460459753,
+        "nonmanifold_edges": 0
+      }
+    },
+    {
+      "group": "16",
+      "object_id": "15",
+      "resource": "3D/Objects/object_366.model",
+      "name": "底.stl",
+      "transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          68.81968020000001
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          145.902763
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          7.250004771581421
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "world_bounds": [
+        [
+          53.81968020000001,
+          127.90273249999998,
+          1.5814203280228867e-09
+        ],
+        [
+          83.81968020000001,
+          163.9027935,
+          14.50001002158142
+        ]
+      ],
+      "world_size": [
+        30.0,
+        36.00006100000002,
+        14.500010020000001
+      ],
+      "mesh": {
+        "vertices": 3048,
+        "triangles": 6088,
+        "bounds": [
+          [
+            -15.0,
+            -18.0000305,
+            -7.25000477
+          ],
+          [
+            15.0,
+            18.0000305,
+            7.25000525
+          ]
+        ],
+        "size": [
+          30.0,
+          36.000061,
+          14.500010020000001
+        ],
+        "signed_volume": 7097.598116829143,
+        "nonmanifold_edges": 0
+      }
+    }
+  ],
+  "mesh_count": 13,
+  "instance_count": 13,
+  "group_count": 3,
+  "project_settings": {
+    "printer_model": "Bambu Lab A1 mini",
+    "printer_settings_id": "Bambu Lab A1 mini 0.4 nozzle",
+    "nozzle_diameter": [
+      "0.4"
+    ],
+    "layer_height": "0.2",
+    "wall_loops": "3",
+    "sparse_infill_density": "15%",
+    "enable_prime_tower": "1",
+    "enable_support": "0",
+    "print_sequence": "by layer",
+    "filament_colour": [
+      "#FCECD6",
+      "#000000",
+      "#FFFF00"
+    ]
+  },
+  "plate_overrides": [
+    {
+      "plater_id": "1",
+      "plater_name": "",
+      "locked": "false",
+      "print_sequence": "by object",
+      "filament_map_mode": "Auto For Flush",
+      "filament_maps": "1 1 1",
+      "thumbnail_file": "Metadata/plate_1.png",
+      "thumbnail_no_light_file": "Metadata/plate_no_light_1.png",
+      "top_file": "Metadata/top_1.png",
+      "pick_file": "Metadata/pick_1.png"
+    }
+  ],
+  "descriptions": {}
+}

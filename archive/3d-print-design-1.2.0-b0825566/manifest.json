@@ -1,0 +1,137 @@
+{
+  "name": "3d-print-design",
+  "version": "1.2.0",
+  "status": "validated_candidate",
+  "require_human_approval": true,
+  "recursive_deletion": false,
+  "network_downloads": false,
+  "origin": "User requirements and verified local implementation; no standalone upstream release feed",
+  "sources": [
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\mecha-forklift-a1mini-v4\\build_mini.py",
+      "sha256": "51b2b10d72269194960b23e02e9f8196e65aa803963fe0edd957cabf1e514438",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\mecha-forklift-a1mini-v4\\verify_publish.py",
+      "sha256": "a23003667f4daaeee3f17e2fa093d88be1284c1e6898c10bc9c52e71cf752c9d",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\skills\\skill-manager\\SKILL.md",
+      "sha256": "adbc41dbd367dbc5cc67a7499f75123563238dd41e495b2d7a0d640c9a6da6fe",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Program Files\\Bambu Studio\\resources\\profiles\\BBL\\machine\\Bambu Lab A1 mini 0.4 nozzle.json",
+      "sha256": "1b028c1c4df4ef075571dab8597b54c6c9f32b1b914b3ca271f4ae38805ff6af",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\build.py",
+      "sha256": "1accab2228230b6cc8e2652b1de0cba7970c7b15e4dac98cc3e9e05fa4205f26",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\audit_trial.py",
+      "sha256": "dae8b6a93e302d7794aa491c4784736217c02d62ae95adbb7cb4af0fcc632e76",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\publish.py",
+      "sha256": "abac44e1cba112b78fc50e7523cf756cc360596b3340a5f2b27f91de148f8038",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\setup_benchmark.py",
+      "sha256": "1fc52d222732042c19ae2d2a5843b278188363affd8f4a0342b605ed5bd22476",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\test_pipeline.py",
+      "sha256": "dc47c9bbbfad703f0680b6484867a5550eee6290f225e9f89d357fb1e20f6409",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\measure_replay.py",
+      "sha256": "607134619bfc44d5b5c4ed4ef80d01f2e1d0de6d8e438d6645724f480d23f40d",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\test_lifecycle.py",
+      "sha256": "005a59734fc5f020579007a262ae65b8f9aead127422b6dcb98624270ed0a180",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\runner-test-results.json",
+      "sha256": "d8f3aba37f8a0973be04049923a613c54ad3e6be6747fad7849052f398638f9a",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\real-model-benchmark-results.json",
+      "sha256": "a310a5046c1f54a08870739714602c2c232028f7e937cf95521c228d79719e7c",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\lifecycle-test-results.json",
+      "sha256": "8667a9a405a9e00222a7273d1672b72db1005aeeb6e9da92a478119a748dd1ea",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-assembly-v2\\path_audit.py",
+      "sha256": "2a3b6551c774a21b91efa5f43db0fb4581a48eefc66e67a10e1570f6a3441117",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-assembly-v2\\motion_audit.py",
+      "sha256": "898a74bbaad3b9cb4eab62d9182a2cb397f6b23d961dd97596309639f33f05fe",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-assembly-v2\\support_audit.py",
+      "sha256": "c832f6d6c1aa8eced199f4888008c078b8de9ff391bfcfc4ffb6f10b3b645075",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\A1mini-免胶-v2\\装配可行性复查.md",
+      "sha256": "290d2f69e23a380a85f2ec26d598c53f3b34b5d4173a4628acceae0a1e069ee4",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\A1mini-免胶-v2\\单盘逐组打印验证.json",
+      "sha256": "70f3580ecf22e43f27217a1778a39173a57b0250446a466da6225c98afee0379",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\test_pipeline.py",
+      "sha256": "0a44c2743de415fe5e311b331d117490a7d3db8e76dc412674b5d793bc4d0f09",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\test_3mf.py",
+      "sha256": "ae56063c00620cf4debe9a221bad46d35203b490325a4a7d7ad4a12895c3ca95",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\runner-test-results.json",
+      "sha256": "3a11e3b7b863480e8f799f0194550c2b9f33f6124da20486389de9e278cd2d7b",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\3mf-test-results.json",
+      "sha256": "b74a049e50011e09a5b5703f60dd42d329b3295a3ddbecf6259f4fff4cc85a9e",
+      "kind": "local-validation-evidence"
+    }
+  ],
+  "validation_evidence": [
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\runner-test-results.json",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\real-model-benchmark-results.json",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\lifecycle-test-results.json",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\test_pipeline.py",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\test_3mf.py",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\runner-test-results.json",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\3mf-test-results.json"
+  ],
+  "supersedes_pending_candidate": "3d-print-design-efficiency-1.1.0-candidate",
+  "efficiency_scope": "Stage-level unchanged-output reuse; no automatic per-part rebuilding or full-workflow speedup claim."
+}

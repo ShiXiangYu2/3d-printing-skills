@@ -1,0 +1,241 @@
+{
+  "name": "3d-print-design",
+  "version": "1.5.0",
+  "status": "validated_candidate",
+  "require_human_approval": true,
+  "recursive_deletion": false,
+  "network_downloads": false,
+  "origin": "User requirements and verified local implementation; no standalone upstream release feed",
+  "sources": [
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\mecha-forklift-a1mini-v4\\build_mini.py",
+      "sha256": "51b2b10d72269194960b23e02e9f8196e65aa803963fe0edd957cabf1e514438",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\mecha-forklift-a1mini-v4\\verify_publish.py",
+      "sha256": "a23003667f4daaeee3f17e2fa093d88be1284c1e6898c10bc9c52e71cf752c9d",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\skills\\skill-manager\\SKILL.md",
+      "sha256": "adbc41dbd367dbc5cc67a7499f75123563238dd41e495b2d7a0d640c9a6da6fe",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Program Files\\Bambu Studio\\resources\\profiles\\BBL\\machine\\Bambu Lab A1 mini 0.4 nozzle.json",
+      "sha256": "1b028c1c4df4ef075571dab8597b54c6c9f32b1b914b3ca271f4ae38805ff6af",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\build.py",
+      "sha256": "1accab2228230b6cc8e2652b1de0cba7970c7b15e4dac98cc3e9e05fa4205f26",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\audit_trial.py",
+      "sha256": "dae8b6a93e302d7794aa491c4784736217c02d62ae95adbb7cb4af0fcc632e76",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-a1mini-v1\\publish.py",
+      "sha256": "abac44e1cba112b78fc50e7523cf756cc360596b3340a5f2b27f91de148f8038",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\setup_benchmark.py",
+      "sha256": "1fc52d222732042c19ae2d2a5843b278188363affd8f4a0342b605ed5bd22476",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\test_pipeline.py",
+      "sha256": "dc47c9bbbfad703f0680b6484867a5550eee6290f225e9f89d357fb1e20f6409",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\measure_replay.py",
+      "sha256": "607134619bfc44d5b5c4ed4ef80d01f2e1d0de6d8e438d6645724f480d23f40d",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\test_lifecycle.py",
+      "sha256": "005a59734fc5f020579007a262ae65b8f9aead127422b6dcb98624270ed0a180",
+      "kind": "local-source"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\runner-test-results.json",
+      "sha256": "d8f3aba37f8a0973be04049923a613c54ad3e6be6747fad7849052f398638f9a",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\real-model-benchmark-results.json",
+      "sha256": "a310a5046c1f54a08870739714602c2c232028f7e937cf95521c228d79719e7c",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\lifecycle-test-results.json",
+      "sha256": "8667a9a405a9e00222a7273d1672b72db1005aeeb6e9da92a478119a748dd1ea",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-assembly-v2\\path_audit.py",
+      "sha256": "2a3b6551c774a21b91efa5f43db0fb4581a48eefc66e67a10e1570f6a3441117",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-assembly-v2\\motion_audit.py",
+      "sha256": "898a74bbaad3b9cb4eab62d9182a2cb397f6b23d961dd97596309639f33f05fe",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\drill-rover-assembly-v2\\support_audit.py",
+      "sha256": "c832f6d6c1aa8eced199f4888008c078b8de9ff391bfcfc4ffb6f10b3b645075",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\A1mini-免胶-v2\\装配可行性复查.md",
+      "sha256": "290d2f69e23a380a85f2ec26d598c53f3b34b5d4173a4628acceae0a1e069ee4",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\A1mini-免胶-v2\\单盘逐组打印验证.json",
+      "sha256": "70f3580ecf22e43f27217a1778a39173a57b0250446a466da6225c98afee0379",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\test_pipeline.py",
+      "sha256": "0a44c2743de415fe5e311b331d117490a7d3db8e76dc412674b5d793bc4d0f09",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\test_3mf.py",
+      "sha256": "ae56063c00620cf4debe9a221bad46d35203b490325a4a7d7ad4a12895c3ca95",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\runner-test-results.json",
+      "sha256": "3a11e3b7b863480e8f799f0194550c2b9f33f6124da20486389de9e278cd2d7b",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\3mf-test-results.json",
+      "sha256": "b74a049e50011e09a5b5703f60dd42d329b3295a3ddbecf6259f4fff4cc85a9e",
+      "kind": "local-validation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\实物反馈-20261006\\证据01.jpg",
+      "sha256": "e43aae9ca3b0bfe02961e823c168a6728fc6bc4256707b4d317715a65e87539a",
+      "kind": "user-physical-feedback"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\实物反馈-20261006\\证据02.jpg",
+      "sha256": "70b9c2d42cfdb4a42fa5ff996ef1082ca9e36d478a71462ded6db4f04842cebb",
+      "kind": "user-physical-feedback"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\实物反馈-20261006\\证据03.jpg",
+      "sha256": "4ac13f7e28fd3fc56749cc61cbc1b042f6cc0e1c61531ac9f175dc4bc5971332",
+      "kind": "user-physical-feedback"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\实物反馈-20261006\\证据04.png",
+      "sha256": "e9c107db6fe4b465cd65335c357f2d59807af32c2a5a4b1458285340f54888df",
+      "kind": "user-physical-feedback"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\实物反馈-20261006\\证据05.png",
+      "sha256": "3328b5aae856a006e250008c7e4e045457df215fd207d31ad9833e19433ab611",
+      "kind": "user-physical-feedback"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\实物反馈-20261006\\证据06.png",
+      "sha256": "e043cda5558817be68509b48b69b343e69bb755d4c0f45567f5ee993f87261fa",
+      "kind": "user-physical-feedback"
+    },
+    {
+      "path": "D:\\AI3D建模\\钻臂工程车\\实物反馈-20261006\\卡扣强度复盘与修改方向.md",
+      "sha256": "3bc5d8fff84cc6e0ce18d7ee39b37f2e9f644c82ce753ceac0203951ff11c447",
+      "kind": "local-review"
+    },
+    {
+      "path": "D:\\workbuddy\\3D打印\\adapt_207.py",
+      "sha256": "a62c81e0ac946b7c7f2ea89ee94d2f01411da5e6e592d19a38203b5888da1ca8",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\workbuddy\\3D打印\\source207\\publish.py",
+      "sha256": "629365a7523060701277da93d1ec75ebe47348282e34157d0783e3ed912318cc",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\207重型工程钻车\\原文件复刻-A1mini-v1\\207-原文件只读备份.3mf",
+      "sha256": "435ebd946506bc0ffed585b6a087752cf48f7b28f80948779430d901d9c1bceb",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\207重型工程钻车\\原文件复刻-A1mini-v1\\复刻与打印验证.json",
+      "sha256": "99f957e54e47edbcfe9a02b3c83f949032759ebee8b3cb30cfea1d0693a71417",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\207重型工程钻车\\原文件复刻-A1mini-v1\\网格与贴板检查.json",
+      "sha256": "193bfdd6ba4328442c201d6845a6e67e535a1c9a9cda780e950ba68d55f4f8fc",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\207重型工程钻车\\原文件复刻-A1mini-v1\\组距与摆盘检查.json",
+      "sha256": "d90d43d7b3a0f638b7bf882e3837f8586c25f0a148f0045476c08e0f145e205d",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\207重型工程钻车\\原文件复刻-A1mini-v1\\原模型学习与复刻说明.md",
+      "sha256": "98a141c85b2f38d986a505e7f2f2dc909902b2867e7c74145c5a14a83cc51405",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\装配复核-v4.json",
+      "sha256": "abbf1a56b3f5cb80febcff5e5dd9a66b22c487b17d47a3fe4f530f64a18fb4d0",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\原型接口保真检查.json",
+      "sha256": "7f09fa63eac2fe8aa648a8626f5817fbcbf73262c92bbfa6e28e4f517dc3024a",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\最终3MF几何一致性复核.json",
+      "sha256": "4d24785492162f2e2e03e183fc7dfbcf47c0db7b3fda3cf8b2768bbcb1a5fe21",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\逐组打印顺序检查.json",
+      "sha256": "95f89191412f6bbcd8fa3dfb5d451f28638d19625bffbe69802dde2b401ed76c",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\制作复盘.md",
+      "sha256": "33c23617ded793f789e749ef2ada0fb60546cbc212777237650b68765d52d2d1",
+      "kind": "local-implementation-evidence"
+    },
+    {
+      "path": "D:\\AI3D建模\\喵巡小猫机甲车\\A1mini-公羽轮轴候选-v4\\v4轮轴替换说明.md",
+      "sha256": "5e19d0f8e63853eb5e02ddcc20e64542ea3132691b8c48c82f62318c7ecbca7c",
+      "kind": "local-implementation-evidence"
+    }
+  ],
+  "validation_evidence": [
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\runner-test-results.json",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\real-model-benchmark-results.json",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261001\\lifecycle-test-results.json",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\test_pipeline.py",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\test_3mf.py",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\runner-test-results.json",
+    "C:\\Users\\18168\\.agents\\artifacts\\3d-print-efficiency-review-20261004\\3mf-test-results.json",
+    "D:\\AI3D建模\\207重型工程钻车\\原文件复刻-A1mini-v1\\复刻与打印验证.json",
+    "D:\\AI3D建模\\207重型工程钻车\\原文件复刻-A1mini-v1\\网格与贴板检查.json",
+    "D:\\AI3D建模\\207重型工程钻车\\原文件复刻-A1mini-v1\\组距与摆盘检查.json",
+    "D:\\AI3D建模\\207重型工程钻车\\原文件复刻-A1mini-v1\\原模型学习与复刻说明.md"
+  ],
+  "supersedes_pending_candidate": null,
+  "efficiency_scope": "Stage-level unchanged-output reuse; no automatic per-part rebuilding or full-workflow speedup claim."
+}
